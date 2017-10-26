@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.920327299999999, 
+                    "lng": 107.6263611
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.918978319708497, 
+                        "lng": 107.6277100802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.921676280291502, 
+                        "lng": 107.6250121197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "5", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "5"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Centeh", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Centeh"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Samoja", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Samoja"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Batununggal", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Batununggal"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,16 +75,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40273", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40273"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJ21VFz9PnaC4RNuzSHVV3dLo", 
+            "formatted_address": "Jl. Centeh No.5, Samoja, Batununggal, Kota Bandung, Jawa Barat 40273, Indonesia", 
             "types": [
-                "street_address"
+                "establishment", 
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

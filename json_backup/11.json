@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9070405, 
+                    "lng": 107.6185685
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.905691519708498, 
+                        "lng": 107.6199174802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.908389480291502, 
+                        "lng": 107.6172195197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "23", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "23"
+                }, 
+                {
+                    "long_name": "Jalan Ambon", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Ambon"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Citarum", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Citarum"
+                }, 
+                {
+                    "long_name": "Bandung Wetan", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Bandung Wetan"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40115", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40115"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJd6UagErmaC4RrsL7v1M25tA", 
+            "formatted_address": "Jl. Ambon No.23, Citarum, Bandung Wetan, Kota Bandung, Jawa Barat 40115, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

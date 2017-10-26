@@ -3,47 +3,38 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9385683, 
+                    "lng": 107.66321
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.937219319708498, 
+                        "lng": 107.6645589802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.939917280291502, 
+                        "lng": 107.6618610197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "GEOMETRIC_CENTER"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jatisari", 
                     "types": [
-                        "route"
+                        "administrative_area_level_4", 
+                        "political"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jatisari"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Buahbatu", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Buahbatu"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +59,21 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40286", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40286"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJLc0JgxzoaC4R2acnhnKmRJk", 
+            "formatted_address": "Jl. Manjah Lega No. 41 Margasari Margacinta Bandung Jawa Barat, Jatisari, Buahbatu, Kota Bandung, Jawa Barat 40286, Indonesia", 
             "types": [
-                "route"
+                "establishment", 
+                "point_of_interest", 
+                "store"
             ]
         }
     ]

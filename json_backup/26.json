@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.9119431, 
+                    "lng": 107.63381
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.910594119708498, 
+                        "lng": 107.6351589802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.913292080291503, 
+                        "lng": 107.6324610197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "24", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "24"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan W.R. Supratman", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. W.R. Supratman"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Sukamaju", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Sukamaju"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Cibeunying Kidul", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Cibeunying Kidul"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,16 +75,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40121", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40121"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJIz2dSsjnaC4RTBV6hm3a_Wo", 
+            "formatted_address": "Jl. W.R. Supratman No.24, Sukamaju, Cibeunying Kidul, Kota Bandung, Jawa Barat 40121, Indonesia", 
             "types": [
-                "street_address"
+                "establishment", 
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

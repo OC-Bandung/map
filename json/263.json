@@ -6,44 +6,44 @@
                 "location_type": "GEOMETRIC_CENTER", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.915479100000001, 
+                        "lng": 107.685059
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9380152, 
+                        "lng": 107.6771986
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.915479100000001, 
+                        "lng": 107.685059
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9380152, 
+                        "lng": 107.6771986
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.9272177, 
+                    "lng": 107.6826165
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jalan Cisaranten Kulon", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Cisaranten Kulon"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Arcamanik", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Arcamanik"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -70,8 +70,8 @@
                     "short_name": "ID"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJSXz4dU3daC4RUNPIScq230Q", 
+            "formatted_address": "Jl. Cisaranten Kulon, Arcamanik, Kota Bandung, Jawa Barat, Indonesia", 
             "types": [
                 "route"
             ]

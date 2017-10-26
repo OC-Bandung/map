@@ -4,59 +4,59 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.8140144, 
+                    "lng": 107.615117
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.812665419708498, 
+                        "lng": 107.6164659802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.815363380291502, 
+                        "lng": 107.6137680197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "282", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "282"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Raya Lembang", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jl. Raya Lembang"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Jayagiri", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Jayagiri"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Lembang", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Lembang"
                 }, 
                 {
-                    "long_name": "Kota Bandung", 
+                    "long_name": "Kabupaten Bandung Barat", 
                     "types": [
                         "administrative_area_level_2", 
                         "political"
                     ], 
-                    "short_name": "Kota Bandung"
+                    "short_name": "Kabupaten Bandung Barat"
                 }, 
                 {
                     "long_name": "Jawa Barat", 
@@ -75,77 +75,71 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40391", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40391"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJV0pMpAThaC4Rl5xj6aN8JpE", 
+            "formatted_address": "Jl. Raya Lembang No.282, Jayagiri, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391, Indonesia", 
             "types": [
                 "establishment", 
-                "health", 
+                "mosque", 
+                "place_of_worship", 
                 "point_of_interest"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -7.0334369, 
+                    "lng": 107.5452649
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -7.032087919708498, 
+                        "lng": 107.5466138802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -7.034785880291502, 
+                        "lng": 107.5439159197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "GEOMETRIC_CENTER"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
-                    "types": [
-                        "street_number"
-                    ], 
-                    "short_name": "26"
-                }, 
-                {
-                    "long_name": "Jalan Sukamulya", 
+                    "long_name": "Jalan Raya Soreang-Banjaran", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukamulya"
+                    "short_name": "Jl. Raya Soreang-Banjaran"
                 }, 
                 {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Cingcin", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Cingcin"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Soreang", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Soreang"
                 }, 
                 {
-                    "long_name": "Kota Bandung", 
+                    "long_name": "Bandung", 
                     "types": [
                         "administrative_area_level_2", 
                         "political"
                     ], 
-                    "short_name": "Kota Bandung"
+                    "short_name": "Bandung"
                 }, 
                 {
                     "long_name": "Jawa Barat", 
@@ -164,17 +158,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40911", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40911"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJ8wnTVT_saC4R30GF-g7EoE4", 
+            "formatted_address": "Jl. Raya Soreang-Banjaran, Cingcin, Soreang, Bandung, Jawa Barat 40911, Indonesia", 
             "types": [
                 "establishment", 
+                "mosque", 
+                "place_of_worship", 
                 "point_of_interest"
             ]
         }

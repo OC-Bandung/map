@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.9121972, 
+                    "lng": 107.6232217
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.910848219708499, 
+                        "lng": 107.6245706802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.913546180291503, 
+                        "lng": 107.6218727197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "36", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "36"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Patra Komala", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Patra Komala"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Merdeka", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Merdeka"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Sumur Bandung", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Sumur Bandung"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,16 +75,20 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40113", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40113"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJbVrJYcvnaC4RehVCns8cwU8", 
+            "formatted_address": "Jl. Patra Komala No.36, Merdeka, Sumur Bandung, Kota Bandung, Jawa Barat 40113, Indonesia", 
             "types": [
-                "street_address"
+                "establishment", 
+                "food", 
+                "point_of_interest", 
+                "restaurant"
             ]
         }
     ]

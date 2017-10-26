@@ -4,67 +4,67 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -7.2470018, 
+                    "lng": 112.6711316
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -7.245652819708498, 
+                        "lng": 112.6724805802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -7.248350780291502, 
+                        "lng": 112.6697826197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "15", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "15"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Margomulyo Indah", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jl. Margomulyo Indah"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Balongsari", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Balongsari"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Tandes", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Tandes"
                 }, 
                 {
-                    "long_name": "Kota Bandung", 
+                    "long_name": "Kota Surabaya", 
                     "types": [
                         "administrative_area_level_2", 
                         "political"
                     ], 
-                    "short_name": "Kota Bandung"
+                    "short_name": "Kota SBY"
                 }, 
                 {
-                    "long_name": "Jawa Barat", 
+                    "long_name": "Jawa Timur", 
                     "types": [
                         "administrative_area_level_1", 
                         "political"
                     ], 
-                    "short_name": "Jawa Barat"
+                    "short_name": "Jawa Timur"
                 }, 
                 {
                     "long_name": "Indonesia", 
@@ -75,69 +75,54 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "60186", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "60186"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJ2-jCSPT-1y0REoxJGr888ZA", 
+            "formatted_address": "Blok A, Jl. Margomulyo Indah No.15, Balongsari, Tandes, Kota SBY, Jawa Timur 60186, Indonesia", 
             "types": [
                 "establishment", 
-                "health", 
                 "point_of_interest"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -6.935478400000001, 
+                    "lng": 107.6228692
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.934129419708499, 
+                        "lng": 107.6242181802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.936827380291503, 
+                        "lng": 107.6215202197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "GEOMETRIC_CENTER"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
-                    "types": [
-                        "street_number"
-                    ], 
-                    "short_name": "26"
-                }, 
-                {
-                    "long_name": "Jalan Sukamulya", 
-                    "types": [
-                        "route"
-                    ], 
-                    "short_name": "Jl. Sukamulya"
-                }, 
-                {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Turangga", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Turangga"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Lengkong", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Lengkong"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -164,18 +149,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40262", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40262"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJoXgZnn3oaC4RQ1SU306reVQ", 
+            "formatted_address": "Jalan Mutiara No.15, Turangga, Lengkong, Turangga, Lengkong, Kota Bandung, Jawa Barat 40262, Indonesia", 
             "types": [
                 "establishment", 
-                "point_of_interest"
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

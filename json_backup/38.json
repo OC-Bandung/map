@@ -6,44 +6,36 @@
                 "location_type": "GEOMETRIC_CENTER", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9494415, 
+                        "lng": 107.630656
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9524054, 
+                        "lng": 107.6258954
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9494415, 
+                        "lng": 107.630656
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9524054, 
+                        "lng": 107.6258954
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.9516773, 
+                    "lng": 107.6281631
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jalan Waas", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
-                }, 
-                {
-                    "long_name": "Rancasari", 
-                    "types": [
-                        "administrative_area_level_3", 
-                        "political"
-                    ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Jl. Waas"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,10 +60,17 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40266", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40266"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJ8ZE8il7oaC4RzkE51hK4a0A", 
+            "formatted_address": "Jl. Waas, Kota Bandung, Jawa Barat 40266, Indonesia", 
             "types": [
                 "route"
             ]

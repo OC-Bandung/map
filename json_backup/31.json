@@ -4,51 +4,46 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.904949599999999, 
+                    "lng": 107.6347146
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.903600619708497, 
+                        "lng": 107.6360635802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.906298580291502, 
+                        "lng": 107.6333656197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "GEOMETRIC_CENTER"
             }, 
+            "formatted_address": "Jl. Yudhawastu Pramuka I, Cicadas, Cibeunying Kidul, Kota Bandung, Jawa Barat 40121, Indonesia", 
+            "place_id": "ChIJZ7uSAXzmaC4R7XnDtwWP9P0", 
             "address_components": [
                 {
-                    "long_name": "26", 
-                    "types": [
-                        "street_number"
-                    ], 
-                    "short_name": "26"
-                }, 
-                {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Yudhawastu Pramuka I", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jl. Yudhawastu Pramuka I"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Cicadas", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Cicadas"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Cibeunying Kidul", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Cibeunying Kidul"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -75,69 +70,56 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40121", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40121"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "partial_match": true, 
             "types": [
                 "establishment", 
-                "health", 
-                "point_of_interest"
+                "point_of_interest", 
+                "school"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -6.9029577, 
+                    "lng": 107.6359022
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.901608719708498, 
+                        "lng": 107.6372511802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.904306680291502, 
+                        "lng": 107.6345532197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "GEOMETRIC_CENTER"
             }, 
+            "formatted_address": "Jl. Yudhawastu Pramuka IV, Cicadas, Cibeunying Kidul, Kota Bandung, Jawa Barat 40121, Indonesia", 
+            "place_id": "ChIJH_i_lbnnaC4RL4EqbqJY4_c", 
             "address_components": [
                 {
-                    "long_name": "26", 
-                    "types": [
-                        "street_number"
-                    ], 
-                    "short_name": "26"
-                }, 
-                {
-                    "long_name": "Jalan Sukamulya", 
-                    "types": [
-                        "route"
-                    ], 
-                    "short_name": "Jl. Sukamulya"
-                }, 
-                {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Cicadas", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Cicadas"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Cibeunying Kidul", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Cibeunying Kidul"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -164,18 +146,18 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40121", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40121"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "partial_match": true, 
             "types": [
                 "establishment", 
-                "point_of_interest"
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

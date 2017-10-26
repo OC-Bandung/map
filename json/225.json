@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.945991999999999, 
+                    "lng": 107.6116826
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.944643019708497, 
+                        "lng": 107.6130315802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.947340980291502, 
+                        "lng": 107.6103336197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "RANGE_INTERPOLATED"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "54", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "54"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Denki", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Denki"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Cigereleng", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Cigereleng"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Regol", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Regol"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,14 +75,15 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40253", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40253"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "Ek1KbC4gRGVua2kgTm8uNTQsIENpZ2VyZWxlbmcsIFJlZ29sLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQgNDAyNTMsIEluZG9uZXNpYQ", 
+            "formatted_address": "Jl. Denki No.54, Cigereleng, Regol, Kota Bandung, Jawa Barat 40253, Indonesia", 
             "types": [
                 "street_address"
             ]

@@ -4,53 +4,53 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.9403161, 
+                    "lng": 107.6444053
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.938967119708497, 
+                        "lng": 107.6457542802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.941665080291502, 
+                        "lng": 107.6430563197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "RANGE_INTERPOLATED"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
+            "formatted_address": "Jl. Sekejati No.23, Kb. Kangkung, Kiaracondong, Kota Bandung, Jawa Barat 40284, Indonesia", 
+            "place_id": "EllKbC4gU2VrZWphdGkgTm8uMjMsIEtiLiBLYW5na3VuZywgS2lhcmFjb25kb25nLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQgNDAyODQsIEluZG9uZXNpYQ", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "23", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "23"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Sekejati", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Sekejati"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Kebon Kangkung", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Kb. Kangkung"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Kiaracondong", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Kiaracondong"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,11 +77,11 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40284", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40284"
                 }
             ], 
             "partial_match": true, 

@@ -4,51 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.9362426, 
+                    "lng": 107.5972761
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.934893619708498, 
+                        "lng": 107.5986250802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.937591580291502, 
+                        "lng": 107.5959271197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "69", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "69"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Bojongloa", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jl. Bojongloa"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Situsaeur", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Situsaeur"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Bojongloa Kidul", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Bojongloa Kidul"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -75,69 +75,67 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40234", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40234"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJqzv8fKLoaC4RTPEPiLKi6hQ", 
+            "formatted_address": "Jl. Bojongloa No.69, Situsaeur, Bojongloa Kidul, Kota Bandung, Jawa Barat 40234, Indonesia", 
             "types": [
-                "establishment", 
-                "health", 
-                "point_of_interest"
+                "street_address"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -6.9318326, 
+                    "lng": 107.5997788
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.930483619708498, 
+                        "lng": 107.6011277802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.933181580291502, 
+                        "lng": 107.5984298197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "69", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "69"
                 }, 
                 {
-                    "long_name": "Jalan Sukamulya", 
+                    "long_name": "Jalan Bojongloa", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukamulya"
+                    "short_name": "Jl. Bojongloa"
                 }, 
                 {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Panjunan", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Panjunan"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Astanaanyar", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Astanaanyar"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -164,18 +162,17 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40242", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40242"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJi1rhEZ_oaC4RfoUKYbMw3JQ", 
+            "formatted_address": "Jl. Bojongloa No.69, Panjunan, Astanaanyar, Kota Bandung, Jawa Barat 40242, Indonesia", 
             "types": [
-                "establishment", 
-                "point_of_interest"
+                "street_address"
             ]
         }
     ]

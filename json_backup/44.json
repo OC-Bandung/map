@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.905241999999999, 
+                    "lng": 107.606835
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.903893019708497, 
+                        "lng": 107.6081839802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.906590980291502, 
+                        "lng": 107.6054860197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "75", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "75"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "JL. Wastu Kencana", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "JL. Wastu Kencana"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Tamansari", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Tamansari"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Bandung Wetan", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Bandung Wetan"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,16 +75,20 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40116", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40116"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJX5nqqkfmaC4RLi4m9vb15-8", 
+            "formatted_address": "JL. Wastu Kencana No.75, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116, Indonesia", 
             "types": [
-                "street_address"
+                "car_dealer", 
+                "establishment", 
+                "point_of_interest", 
+                "store"
             ]
         }
     ]

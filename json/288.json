@@ -1,0 +1,885 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9571407, 
+                    "lng": 107.6317283
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.955791719708499, 
+                        "lng": 107.6330772802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.958489680291502, 
+                        "lng": 107.6303793197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Molek No.3, Batununggal, Bandung Kidul, Kota Bandung, Jawa Barat 40266, Indonesia", 
+            "place_id": "ChIJSTUBlVroaC4RT5aotAPTjyI", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Molek", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Molek"
+                }, 
+                {
+                    "long_name": "Batununggal", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Batununggal"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40266", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40266"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9622061, 
+                    "lng": 107.6304069
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.960857119708497, 
+                        "lng": 107.6317558802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.963555080291502, 
+                        "lng": 107.6290579197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Mulia Raya No.3, Mengger, Bandung Kidul, Kota Bandung, Jawa Barat 40267, Indonesia", 
+            "place_id": "ChIJsXdVdVHoaC4RXa62d8DN2RI", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Mulia Raya", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Mulia Raya"
+                }, 
+                {
+                    "long_name": "Mengger", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mengger"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40267", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40267"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9562285, 
+                    "lng": 107.6334366
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.954879519708498, 
+                        "lng": 107.6347855802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.957577480291502, 
+                        "lng": 107.6320876197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Molek I No.3, Batununggal, Bandung Kidul, Kota Bandung, Jawa Barat 40266, Indonesia", 
+            "place_id": "ChIJGw5ELUXoaC4RoCmUHpmfB9s", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Molek I", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Molek I"
+                }, 
+                {
+                    "long_name": "Batununggal", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Batununggal"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40266", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40266"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9604453, 
+                    "lng": 107.6255304
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.959096319708498, 
+                        "lng": 107.6268793802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.961794280291502, 
+                        "lng": 107.6241814197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Sentosa I No.3, Mengger, Bandung Kidul, Kota Bandung, Jawa Barat 40267, Indonesia", 
+            "place_id": "ChIJH12bEFfoaC4RCj4G3g0Ji1k", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Sentosa I", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Sentosa I"
+                }, 
+                {
+                    "long_name": "Mengger", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mengger"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40267", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40267"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.956458899999999, 
+                    "lng": 107.6298236
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.955109919708498, 
+                        "lng": 107.6311725802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.957807880291502, 
+                        "lng": 107.6284746197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Permai V No.3, Batununggal, Bandung Kidul, Kota Bandung, Jawa Barat 40267, Indonesia", 
+            "place_id": "ChIJI5iFWlroaC4RCz9WDHy0bSw", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Permai V", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Permai V"
+                }, 
+                {
+                    "long_name": "Batununggal", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Batununggal"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40267", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40267"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9581005, 
+                    "lng": 107.6241479
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.956751519708497, 
+                        "lng": 107.6254968802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.959449480291502, 
+                        "lng": 107.6227989197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Indah \u2167 No.3, Mengger, Bandung Kidul, Kota Bandung, Jawa Barat 40267, Indonesia", 
+            "place_id": "ChIJo2QsLFjoaC4RgMU8cO072LM", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Indah \u2167", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Indah \u2167"
+                }, 
+                {
+                    "long_name": "Mengger", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mengger"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40267", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40267"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9638696, 
+                    "lng": 107.6302615
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.962520619708497, 
+                        "lng": 107.6316104802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.965218580291502, 
+                        "lng": 107.6289125197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Mulia XIII No.3, Mengger, Bandung Kidul, Kota Bandung, Jawa Barat 40267, Indonesia", 
+            "place_id": "ChIJp5xx01PoaC4R6LW0sR4xXew", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Mulia XIII", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Mulia XIII"
+                }, 
+                {
+                    "long_name": "Mengger", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mengger"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40267", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40267"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9573506, 
+                    "lng": 107.6288514
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.956001619708498, 
+                        "lng": 107.6302003802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.958699580291502, 
+                        "lng": 107.6275024197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Permai II No.3, Mengger, Bandung Kidul, Kota Bandung, Jawa Barat 40267, Indonesia", 
+            "place_id": "ChIJXXO_FFroaC4RmViEJIZxzVU", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Permai II", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Permai II"
+                }, 
+                {
+                    "long_name": "Mengger", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mengger"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40267", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40267"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.962095, 
+                    "lng": 107.6303795
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.960746019708497, 
+                        "lng": 107.6317284802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.963443980291502, 
+                        "lng": 107.6290305197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Mulia \u2160 No.3, Mengger, Bandung Kidul, Kota Bandung, Jawa Barat 40267, Indonesia", 
+            "place_id": "ChIJgwEeVFDoaC4RX8xjLNZAv74", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Mulia \u2160", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Mulia \u2160"
+                }, 
+                {
+                    "long_name": "Mengger", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mengger"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40267", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40267"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9539575, 
+                    "lng": 107.6245595
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.952608519708497, 
+                        "lng": 107.6259084802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.955306480291502, 
+                        "lng": 107.6232105197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Batununggal Indah II No.3, Mengger, Bandung Kidul, Kota Bandung, Jawa Barat 40267, Indonesia", 
+            "place_id": "ChIJhys8KFnoaC4RAMeQV8dsCa8", 
+            "address_components": [
+                {
+                    "long_name": "3", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "3"
+                }, 
+                {
+                    "long_name": "Jalan Batununggal Indah II", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Batununggal Indah II"
+                }, 
+                {
+                    "long_name": "Mengger", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mengger"
+                }, 
+                {
+                    "long_name": "Bandung Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40267", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40267"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

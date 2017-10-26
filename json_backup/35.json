@@ -4,51 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.9384539, 
+                    "lng": 107.6403716
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.937104919708498, 
+                        "lng": 107.6417205802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.939802880291502, 
+                        "lng": 107.6390226197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "139", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "139"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Binong Jati", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jl. Binong Jati"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Binong", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Binong"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Batununggal", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Batununggal"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -75,69 +75,69 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40275", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40275"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJS3o9P3LoaC4RTPMCPFFxtYU", 
+            "formatted_address": "Jl. Binong Jati No.139, Binong, Batununggal, Kota Bandung, Jawa Barat 40275, Indonesia", 
             "types": [
                 "establishment", 
-                "health", 
-                "point_of_interest"
+                "point_of_interest", 
+                "school"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -6.937380999999999, 
+                    "lng": 107.640152
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.936032019708497, 
+                        "lng": 107.6415009802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.938729980291502, 
+                        "lng": 107.6388030197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "139", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "139"
                 }, 
                 {
-                    "long_name": "Jalan Sukamulya", 
+                    "long_name": "Jalan Binong Jati", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukamulya"
+                    "short_name": "Jl. Binong Jati"
                 }, 
                 {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Binong", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Binong"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Batununggal", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Batununggal"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -164,17 +164,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40275", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40275"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJi9vb923oaC4ROonXyvWEvT0", 
+            "formatted_address": "Jl. Binong Jati No.139, Binong, Batununggal, Kota Bandung, Jawa Barat 40275, Indonesia", 
             "types": [
                 "establishment", 
+                "mosque", 
+                "place_of_worship", 
                 "point_of_interest"
             ]
         }

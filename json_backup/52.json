@@ -3,39 +3,44 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.966316399999999, 
+                    "lng": 107.6664354
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.964967419708497, 
+                        "lng": 107.6677843802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.967665380291502, 
+                        "lng": 107.6650864197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "19", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "19"
+                }, 
+                {
+                    "long_name": "Jalan Baturaden VIII", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Baturaden VIII"
+                }, 
+                {
+                    "long_name": "Mekarjaya", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mekarjaya"
                 }, 
                 {
                     "long_name": "Rancasari", 
@@ -68,12 +73,21 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40292", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40292"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJCdUQ_-rCaC4R6RBeJwDrLm8", 
+            "formatted_address": "Jl. Baturaden VIII No.19, Mekarjaya, Rancasari, Kota Bandung, Jawa Barat 40292, Indonesia", 
             "types": [
-                "route"
+                "establishment", 
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

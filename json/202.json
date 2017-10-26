@@ -6,44 +6,52 @@
                 "location_type": "GEOMETRIC_CENTER", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9436335, 
+                        "lng": 107.5959606
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.947317699999999, 
+                        "lng": 107.5951787
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9436335, 
+                        "lng": 107.5969186302915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.947317699999999, 
+                        "lng": 107.5942206697085
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.94522, 
+                    "lng": 107.595484
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jalan Leuwi Panjang", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Leuwi Panjang"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Situsaeur", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Situsaeur"
+                }, 
+                {
+                    "long_name": "Bojongloa Kidul", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Bojongloa Kidul"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -70,8 +78,8 @@
                     "short_name": "ID"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ElJKbC4gTGV1d2kgUGFuamFuZywgU2l0dXNhZXVyLCBCb2pvbmdsb2EgS2lkdWwsIEtvdGEgQmFuZHVuZywgSmF3YSBCYXJhdCwgSW5kb25lc2lh", 
+            "formatted_address": "Jl. Leuwi Panjang, Situsaeur, Bojongloa Kidul, Kota Bandung, Jawa Barat, Indonesia", 
             "types": [
                 "route"
             ]

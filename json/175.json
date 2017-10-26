@@ -4,51 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.9187407, 
+                    "lng": 107.6188546
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.917391719708498, 
+                        "lng": 107.6202035802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.920089680291502, 
+                        "lng": 107.6175056197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "71", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "71"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Baranang Siang", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jl. Baranang Siang"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Kebon Pisang", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Kb. Pisang"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Sumur Bandung", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Sumur Bandung"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -75,69 +75,69 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40112", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40112"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJsaCSdC3maC4RNGGaxV1YU_I", 
+            "formatted_address": "Jl. Baranang Siang No.71, Kb. Pisang, Sumur Bandung, Kota Bandung, Jawa Barat 40112, Indonesia", 
             "types": [
                 "establishment", 
-                "health", 
+                "local_government_office", 
                 "point_of_interest"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -6.918595, 
+                    "lng": 107.6181271
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.917246019708498, 
+                        "lng": 107.6194760802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.919943980291502, 
+                        "lng": 107.6167781197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "71", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "71"
                 }, 
                 {
-                    "long_name": "Jalan Sukamulya", 
+                    "long_name": "Jalan Baranang Siang", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukamulya"
+                    "short_name": "Jl. Baranang Siang"
                 }, 
                 {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Kebon Pisang", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Kb. Pisang"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Sumur Bandung", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Sumur Bandung"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -164,18 +164,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40112", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40112"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJu-7RkC3maC4RljiNTPf-9rw", 
+            "formatted_address": "Jl. Baranang Siang No.71, Kb. Pisang, Sumur Bandung, Kota Bandung, Jawa Barat 40112, Indonesia", 
             "types": [
                 "establishment", 
-                "point_of_interest"
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

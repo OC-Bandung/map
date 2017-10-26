@@ -1,5 +1,185 @@
 {
-    "status": "OVER_QUERY_LIMIT", 
-    "error_message": "You have exceeded your daily request quota for this API. We recommend registering for a key at the Google Developers Console: https://console.developers.google.com/apis/credentials?project=_", 
-    "results": []
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.907398199999999, 
+                    "lng": 107.6972271
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.906049219708497, 
+                        "lng": 107.6985760802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.908747180291502, 
+                        "lng": 107.6958781197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Pasir Jati Timur No.12, Cigending, Ujung Berung, Kota Bandung, Jawa Barat 40611, Indonesia", 
+            "place_id": "ChIJc20xPDzdaC4R2ala3UQfTwM", 
+            "address_components": [
+                {
+                    "long_name": "12", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "12"
+                }, 
+                {
+                    "long_name": "Jalan Pasir Jati Timur", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Pasir Jati Timur"
+                }, 
+                {
+                    "long_name": "Cigending", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Cigending"
+                }, 
+                {
+                    "long_name": "Ujung Berung", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Ujung Berung"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40611", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40611"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.904402999999999, 
+                    "lng": 107.695956
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.903054019708497, 
+                        "lng": 107.6973049802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.905751980291502, 
+                        "lng": 107.6946070197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Pasir jati Lama No.12, Jatiendah, Cilengkrang, Kota Bandung, Jawa Barat 40619, Indonesia", 
+            "place_id": "ChIJN-0hhxXdaC4RdH9EmmxvFic", 
+            "address_components": [
+                {
+                    "long_name": "12", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "12"
+                }, 
+                {
+                    "long_name": "Jalan Pasir jati Lama", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Pasir jati Lama"
+                }, 
+                {
+                    "long_name": "Jatiendah", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Jatiendah"
+                }, 
+                {
+                    "long_name": "Cilengkrang", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cilengkrang"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40619", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40619"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "store"
+            ]
+        }
+    ]
 }

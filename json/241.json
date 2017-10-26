@@ -3,39 +3,46 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9404416, 
+                    "lng": 107.6670782
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.939092619708497, 
+                        "lng": 107.6684271802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.941790580291502, 
+                        "lng": 107.6657292197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
+            "formatted_address": "Jl. Venus Raya No.6, Manjahlega, Rancasari, Kota Bandung, Jawa Barat 40286, Indonesia", 
+            "place_id": "ChIJ6QozwR3oaC4R1WxQNWUyIqA", 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "6", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "6"
+                }, 
+                {
+                    "long_name": "Jalan Venus Raya", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Venus Raya"
+                }, 
+                {
+                    "long_name": "Manjahlega", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Manjahlega"
                 }, 
                 {
                     "long_name": "Rancasari", 
@@ -68,12 +75,18 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40286", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40286"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "partial_match": true, 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

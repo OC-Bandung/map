@@ -3,47 +3,38 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9117861, 
+                    "lng": 107.5966514
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.910437119708498, 
+                        "lng": 107.5980003802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.913135080291502, 
+                        "lng": 107.5953024197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "GEOMETRIC_CENTER"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Arjuna", 
                     "types": [
-                        "route"
+                        "administrative_area_level_4", 
+                        "political"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Arjuna"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Cicendo", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Cicendo"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +59,21 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40172", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40172"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJWb9GBN8eeS4RtnUc-0GOm5w", 
+            "formatted_address": "Jalan Kesatriaan No.12, Arjuna, Cicendo, Kota Bandung, Jawa Barat 40172, Indonesia", 
             "types": [
-                "route"
+                "establishment", 
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.868493, 
+                    "lng": 107.582213
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.867144019708498, 
+                        "lng": 107.5835619802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.869841980291502, 
+                        "lng": 107.5808640197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "155", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "155"
+                }, 
+                {
+                    "long_name": "Jalan Gegerkalong Hilir", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Gegerkalong Hilir"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Gegerkalong", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Gegerkalong"
+                }, 
+                {
+                    "long_name": "Sukasari", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Sukasari"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40153", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40153"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJsTgjkpjmaC4Rv8Ro4ldYPHo", 
+            "formatted_address": "Jl. Gegerkalong Hilir No.155, Gegerkalong, Sukasari, Kota Bandung, Jawa Barat 40153, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

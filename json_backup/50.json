@@ -6,44 +6,44 @@
                 "location_type": "GEOMETRIC_CENTER", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9015688, 
+                        "lng": 107.7349578
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9117111, 
+                        "lng": 107.7280779
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9015688, 
+                        "lng": 107.7349578
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9117111, 
+                        "lng": 107.7280779
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.9065607, 
+                    "lng": 107.7314673
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Cigagak", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Cigagak"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Cibiru", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Cibiru"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,10 +68,17 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40615", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40615"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJk11KnMPcaC4RdJqHD5k7C6g", 
+            "formatted_address": "Cigagak, Cibiru, Kota Bandung, Jawa Barat 40615, Indonesia", 
             "types": [
                 "route"
             ]

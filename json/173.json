@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.917331000000001, 
+                    "lng": 107.605278
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.915982019708499, 
+                        "lng": 107.6066269802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.918679980291503, 
+                        "lng": 107.6039290197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "13", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "13"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Pecinan Lama", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Pecinan Lama"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Braga", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Braga"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Sumur Bandung", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Sumur Bandung"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,16 +75,18 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40111", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40111"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJWzR3ODvmaC4R7-wVSeXmCRg", 
+            "formatted_address": "Jl. Pecinan Lama No.13, Braga, Sumur Bandung, Kota Bandung, Jawa Barat 40111, Indonesia", 
             "types": [
-                "street_address"
+                "establishment", 
+                "point_of_interest"
             ]
         }
     ]

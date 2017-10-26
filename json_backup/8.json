@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9211411, 
+                    "lng": 107.6260979
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.919792119708498, 
+                        "lng": 107.6274468802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.922490080291502, 
+                        "lng": 107.6247489197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "5", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "5"
+                }, 
+                {
+                    "long_name": "Jalan Samoja", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Samoja"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Samoja", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Samoja"
+                }, 
+                {
+                    "long_name": "Batununggal", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Batununggal"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40262", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40262"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJw4AmwNPnaC4RuBH0Drc_6L4", 
+            "formatted_address": "Jl. Samoja No.5, Samoja, Batununggal, Kota Bandung, Jawa Barat 40262, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

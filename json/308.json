@@ -3,63 +3,56 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
+                "location_type": "APPROXIMATE", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.883988899999999, 
+                        "lng": 107.687528
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9072279, 
+                        "lng": 107.656571
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.883988899999999, 
+                        "lng": 107.687528
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9072279, 
+                        "lng": 107.656571
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.897547599999999, 
+                    "lng": 107.6718469
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
-                    "types": [
-                        "route"
-                    ], 
-                    "short_name": "Jl. Derwati"
-                }, 
-                {
-                    "long_name": "Rancasari", 
+                    "long_name": "Mandalajati", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Mandalajati"
                 }, 
                 {
-                    "long_name": "Kota Bandung", 
+                    "long_name": "Bandung City", 
                     "types": [
                         "administrative_area_level_2", 
                         "political"
                     ], 
-                    "short_name": "Kota Bandung"
+                    "short_name": "Bandung City"
                 }, 
                 {
-                    "long_name": "Jawa Barat", 
+                    "long_name": "West Java", 
                     "types": [
                         "administrative_area_level_1", 
                         "political"
                     ], 
-                    "short_name": "Jawa Barat"
+                    "short_name": "West Java"
                 }, 
                 {
                     "long_name": "Indonesia", 
@@ -70,10 +63,11 @@
                     "short_name": "ID"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJneeBKGPdaC4Rddo7MBPvUe4", 
+            "formatted_address": "Mandalajati, Bandung City, West Java, Indonesia", 
             "types": [
-                "route"
+                "administrative_area_level_3", 
+                "political"
             ]
         }
     ]

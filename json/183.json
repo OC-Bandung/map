@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.8936493, 
+                    "lng": 107.6569158
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.892300319708498, 
+                        "lng": 107.6582647802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.894998280291502, 
+                        "lng": 107.6555668197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "RANGE_INTERPOLATED"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "146", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "146"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Padasuka", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Padasuka"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Padasuka", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Padasuka"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Cibeunying Kidul", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Cibeunying Kidul"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,14 +75,15 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40911", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40911"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ElpKbC4gUGFkYXN1a2EgTm8uMTQ2LCBQYWRhc3VrYSwgQ2liZXVueWluZyBLaWR1bCwgS290YSBCYW5kdW5nLCBKYXdhIEJhcmF0IDQwOTExLCBJbmRvbmVzaWE", 
+            "formatted_address": "Jl. Padasuka No.146, Padasuka, Cibeunying Kidul, Kota Bandung, Jawa Barat 40911, Indonesia", 
             "types": [
                 "street_address"
             ]

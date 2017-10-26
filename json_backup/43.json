@@ -4,51 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.9420859, 
+                    "lng": 107.567878
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.940736919708498, 
+                        "lng": 107.5692269802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.943434880291503, 
+                        "lng": 107.5665290197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "439", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "439"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Holis", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jl. Holis"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Caringin", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Caringin"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Bandung Kulon", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Bandung Kulon"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -75,69 +75,68 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40212", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40212"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJH70cek7vaC4RBYNDz2aPAqI", 
+            "formatted_address": "Jl. Holis No.439, Caringin, Bandung Kulon, Kota Bandung, Jawa Barat 40212, Indonesia", 
             "types": [
                 "establishment", 
-                "health", 
                 "point_of_interest"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -6.9423664, 
+                    "lng": 107.5687252
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.941017419708498, 
+                        "lng": 107.5700741802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.943715380291502, 
+                        "lng": 107.5673762197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "439", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "439"
                 }, 
                 {
-                    "long_name": "Jalan Sukamulya", 
+                    "long_name": "Jalan Holis", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukamulya"
+                    "short_name": "Jl. Holis"
                 }, 
                 {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Caringin", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Caringin"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Bandung Kulon", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Bandung Kulon"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -164,18 +163,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40212", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40212"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJM4Sc003vaC4R61g69idJ6TI", 
+            "formatted_address": "40223, Jl. Holis No.439, Caringin, Bandung Kulon, Kota Bandung, Jawa Barat 40212, Indonesia", 
             "types": [
                 "establishment", 
-                "point_of_interest"
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

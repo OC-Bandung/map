@@ -4,51 +4,53 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.860606, 
+                    "lng": 107.586145
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.859257019708497, 
+                        "lng": 107.5874939802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.861954980291502, 
+                        "lng": 107.5847960197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
+            "formatted_address": "Jl. Geger Arum No.11, Isola, Sukasari, Kota Bandung, Jawa Barat 40154, Indonesia", 
+            "place_id": "ChIJ8UKcNLvmaC4RqWZfC0oSgLY", 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "11", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "11"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Geger Arum", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jl. Geger Arum"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Isola", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Isola"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Sukasari", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Sukasari"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -75,69 +77,68 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40154", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40154"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "partial_match": true, 
             "types": [
-                "establishment", 
-                "health", 
-                "point_of_interest"
+                "street_address"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -6.8607777, 
+                    "lng": 107.5865079
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.859428719708498, 
+                        "lng": 107.5878568802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.862126680291502, 
+                        "lng": 107.5851589197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
+            "formatted_address": "Jl. Geger Arum No.11a, Isola, Sukasari, Kota Bandung, Jawa Barat 40154, Indonesia", 
+            "place_id": "ChIJFVRbNrvmaC4RJCe0akUO9e0", 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "11a", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "11a"
                 }, 
                 {
-                    "long_name": "Jalan Sukamulya", 
+                    "long_name": "Jalan Geger Arum", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukamulya"
+                    "short_name": "Jl. Geger Arum"
                 }, 
                 {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Isola", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Isola"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Sukasari", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Sukasari"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -164,18 +165,16 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40154", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40154"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "partial_match": true, 
             "types": [
-                "establishment", 
-                "point_of_interest"
+                "street_address"
             ]
         }
     ]

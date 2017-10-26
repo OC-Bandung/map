@@ -3,47 +3,38 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.8658101, 
+                    "lng": 107.5929536
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.864461119708498, 
+                        "lng": 107.5943025802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.867159080291502, 
+                        "lng": 107.5916046197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "GEOMETRIC_CENTER"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Gegerkalong", 
                     "types": [
-                        "route"
+                        "administrative_area_level_4", 
+                        "political"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Gegerkalong"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Sukasari", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Sukasari"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +59,21 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40153", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40153"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJS9PkRr7maC4R7ZmtUBlHr9E", 
+            "formatted_address": "Jl. Dr. Setiabudhi No. 195, Gegerkalong, Sukasari, Kota Bandung, Jawa Barat 40153, Indonesia", 
             "types": [
-                "route"
+                "establishment", 
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

@@ -3,47 +3,45 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9254387, 
+                    "lng": 107.606783
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.924089719708499, 
+                        "lng": 107.6081319802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.926787680291502, 
+                        "lng": 107.6054340197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "GEOMETRIC_CENTER"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jalan Kautamaan Istri", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Kautamaan Istri"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Balonggede", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Balonggede"
+                }, 
+                {
+                    "long_name": "Regol", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Regol"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +66,21 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40251", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40251"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJoyrfVSbmaC4RiVB4TKpk-w4", 
+            "formatted_address": "Jl. Kautamaan Istri, Balonggede, Regol, Kota Bandung, Jawa Barat 40251, Indonesia", 
             "types": [
-                "route"
+                "establishment", 
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

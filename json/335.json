@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.9134539, 
+                    "lng": 107.6090197
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.912104919708499, 
+                        "lng": 107.6103686802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.914802880291503, 
+                        "lng": 107.6076707197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "RANGE_INTERPOLATED"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "2", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "2"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Wastukencana", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Wastukencana"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Babakan Ciamis", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Babakan Ciamis"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Sumur Bandung", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Sumur Bandung"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,14 +75,15 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40117", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40117"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "El9KbC4gV2FzdHVrZW5jYW5hIE5vLjIsIEJhYmFrYW4gQ2lhbWlzLCBTdW11ciBCYW5kdW5nLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQgNDAxMTcsIEluZG9uZXNpYQ", 
+            "formatted_address": "Jl. Wastukencana No.2, Babakan Ciamis, Sumur Bandung, Kota Bandung, Jawa Barat 40117, Indonesia", 
             "types": [
                 "street_address"
             ]

@@ -4,53 +4,60 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.960762799999999, 
+                    "lng": 107.6660401
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.959413819708497, 
+                        "lng": 107.6673890802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.962111780291502, 
+                        "lng": 107.6646911197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
+            "formatted_address": "Jl. Raya Ciwastra Jl. Rancasawo No.291, Margasari, Buahbatu, Kota Bandung, Jawa Barat 40286, Indonesia", 
+            "place_id": "ChIJ3-frnynoaC4R-gCfxBWKuoI", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "291", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "291"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Raya Ciwastra", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Raya Ciwastra"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Jalan Rancasawo", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Rancasawo"
+                }, 
+                {
+                    "long_name": "Margasari", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Margasari"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Buahbatu", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Buahbatu"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,11 +84,11 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40286", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40286"
                 }
             ], 
             "partial_match": true, 

@@ -1,0 +1,121 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.1840864, 
+                    "lng": 106.8312136
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.182737419708498, 
+                        "lng": 106.8325625802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.185435380291502, 
+                        "lng": 106.8298646197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Lantai 2", 
+                    "types": [
+                        "subpremise"
+                    ], 
+                    "short_name": "Lantai 2"
+                }, 
+                {
+                    "long_name": "MNC Tower", 
+                    "types": [
+                        "premise"
+                    ], 
+                    "short_name": "MNC Tower"
+                }, 
+                {
+                    "long_name": "17 - 19", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "17 - 19"
+                }, 
+                {
+                    "long_name": "Jalan Kebon Sirih", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Kebon Sirih"
+                }, 
+                {
+                    "long_name": "15", 
+                    "types": [
+                        "political"
+                    ], 
+                    "short_name": "15"
+                }, 
+                {
+                    "long_name": "7", 
+                    "types": [
+                        "political"
+                    ], 
+                    "short_name": "7"
+                }, 
+                {
+                    "long_name": "Kebon Sirih", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Kb. Sirih"
+                }, 
+                {
+                    "long_name": "Menteng", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Menteng"
+                }, 
+                {
+                    "long_name": "Kota Jakarta Pusat", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Jakarta Pusat"
+                }, 
+                {
+                    "long_name": "Daerah Khusus Ibukota Jakarta", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Daerah Khusus Ibukota Jakarta"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "10340", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "10340"
+                }
+            ], 
+            "place_id": "ChIJMZpBSjD0aS4RaSnNhgz_g4o", 
+            "formatted_address": "Lantai 2, MNC Tower, Jl. Kebon Sirih No.17 - 19, RT.15/RW.7, Kb. Sirih, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest"
+            ]
+        }
+    ]
+}

@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.9178168, 
+                    "lng": 107.5927711
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.916467819708497, 
+                        "lng": 107.5941200802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.919165780291502, 
+                        "lng": 107.5914221197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "5", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "5"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Kelenteng", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Kelenteng"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Ciroyom", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Ciroyom"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Andir", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Andir"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,16 +75,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40182", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40182"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJS5WmTxfmaC4ROAqpKt51OcM", 
+            "formatted_address": "Jl. Kelenteng No.5, Ciroyom, Andir, Kota Bandung, Jawa Barat 40182, Indonesia", 
             "types": [
-                "street_address"
+                "establishment", 
+                "place_of_worship", 
+                "point_of_interest"
             ]
         }
     ]

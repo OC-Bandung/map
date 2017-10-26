@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.909841000000001, 
+                    "lng": 107.597021
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9084920197085, 
+                        "lng": 107.5983699802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.911189980291503, 
+                        "lng": 107.5956720197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "5", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "5"
+                }, 
+                {
+                    "long_name": "Jalan Semar", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Semar"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Arjuna", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Arjuna"
+                }, 
+                {
+                    "long_name": "Cicendo", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Cicendo"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40172", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40172"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJyT4NbxXmaC4RTFHtE-4YD3g", 
+            "formatted_address": "Jl. Semar No.5, Arjuna, Cicendo, Kota Bandung, Jawa Barat 40172, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

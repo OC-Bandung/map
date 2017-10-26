@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.916811000000001, 
+                    "lng": 107.6341357
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.915462019708499, 
+                        "lng": 107.6354846802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.918159980291503, 
+                        "lng": 107.6327867197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "17", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "17"
+                }, 
+                {
+                    "long_name": "Jalan Sukabumi", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Sukabumi"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Kacapiring", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Kacapiring"
+                }, 
+                {
+                    "long_name": "Batununggal", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Batununggal"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40271", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40271"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJkwWETcXnaC4RbbozEx8IuWs", 
+            "formatted_address": "Jl. Sukabumi No.17, Kacapiring, Batununggal, Kota Bandung, Jawa Barat 40271, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

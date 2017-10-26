@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.8927735, 
+                    "lng": 107.5880908
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.891424519708497, 
+                        "lng": 107.5894397802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.894122480291502, 
+                        "lng": 107.5867418197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "4", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "4"
+                }, 
+                {
+                    "long_name": "Jalan Sukamulya", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Sukamulya"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Sukagalih", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Sukagalih"
+                }, 
+                {
+                    "long_name": "Sukajadi", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Sukajadi"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40163", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40163"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJlbQNY2PmaC4RjhvPfOYHRVU", 
+            "formatted_address": "Jl. Sukamulya No.4, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40163, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

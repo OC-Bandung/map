@@ -4,53 +4,53 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.8800946, 
+                    "lng": 107.576449
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.878745619708498, 
+                        "lng": 107.5777979802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.881443580291502, 
+                        "lng": 107.5751000197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
+            "formatted_address": "Jl. Sarimanah Raya No.23, Sarijadi, Sukasari, Kota Bandung, Jawa Barat 40151, Indonesia", 
+            "place_id": "ChIJP0l9-oLmaC4RRqvsqCHRMno", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "23", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "23"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Sarimanah Raya", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Sarimanah Raya"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Sarijadi", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Sarijadi"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Sukasari", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Sukasari"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,11 +77,11 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40151", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40151"
                 }
             ], 
             "partial_match": true, 

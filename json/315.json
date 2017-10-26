@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9121177, 
+                    "lng": 107.5892421
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.910768719708497, 
+                        "lng": 107.5905910802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.913466680291502, 
+                        "lng": 107.5878931197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "45", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "45"
+                }, 
+                {
+                    "long_name": "Jalan Arjuna", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Arjuna"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Husen Sastranegara", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Husen Sastranegara"
+                }, 
+                {
+                    "long_name": "Cicendo", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Cicendo"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40174", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40174"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJcTu0tRPmaC4RRtBJ6JM4mG8", 
+            "formatted_address": "Jl. Arjuna No.45, Husen Sastranegara, Cicendo, Kota Bandung, Jawa Barat 40174, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

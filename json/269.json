@@ -4,51 +4,53 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.915505899999999, 
+                    "lng": 107.7179158
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.914156919708497, 
+                        "lng": 107.7192647802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.916854880291502, 
+                        "lng": 107.7165668197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "RANGE_INTERPOLATED"
             }, 
+            "formatted_address": "Jl. Galumpit No.1, Cisurupan, Cibiru, Kota Bandung, Jawa Barat 40614, Indonesia", 
+            "place_id": "Ek9KbC4gR2FsdW1waXQgTm8uMSwgQ2lzdXJ1cGFuLCBDaWJpcnUsIEtvdGEgQmFuZHVuZywgSmF3YSBCYXJhdCA0MDYxNCwgSW5kb25lc2lh", 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "1", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "1"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Galumpit", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jl. Galumpit"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Cisurupan", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Cisurupan"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Cibiru", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Cibiru"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -75,77 +77,76 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40614", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40614"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "partial_match": true, 
             "types": [
-                "establishment", 
-                "health", 
-                "point_of_interest"
+                "street_address"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -6.9480019, 
+                    "lng": 107.7459281
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.946652919708497, 
+                        "lng": 107.7472770802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.949350880291502, 
+                        "lng": 107.7445791197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "RANGE_INTERPOLATED"
             }, 
+            "formatted_address": "Jl. Galumpit No.1, Cileunyi Kulon, Cileunyi, Bandung, Jawa Barat 40622, Indonesia", 
+            "place_id": "ElFKbC4gR2FsdW1waXQgTm8uMSwgQ2lsZXVueWkgS3Vsb24sIENpbGV1bnlpLCBCYW5kdW5nLCBKYXdhIEJhcmF0IDQwNjIyLCBJbmRvbmVzaWE", 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "1", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "1"
                 }, 
                 {
-                    "long_name": "Jalan Sukamulya", 
+                    "long_name": "Jalan Galumpit", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukamulya"
+                    "short_name": "Jl. Galumpit"
                 }, 
                 {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Cileunyi Kulon", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Cileunyi Kulon"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Cileunyi", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Cileunyi"
                 }, 
                 {
-                    "long_name": "Kota Bandung", 
+                    "long_name": "Bandung", 
                     "types": [
                         "administrative_area_level_2", 
                         "political"
                     ], 
-                    "short_name": "Kota Bandung"
+                    "short_name": "Bandung"
                 }, 
                 {
                     "long_name": "Jawa Barat", 
@@ -164,18 +165,16 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40622", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40622"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "partial_match": true, 
             "types": [
-                "establishment", 
-                "point_of_interest"
+                "street_address"
             ]
         }
     ]

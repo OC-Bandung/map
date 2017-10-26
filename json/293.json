@@ -4,51 +4,53 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.9556109, 
+                    "lng": 107.6861131
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.954261919708498, 
+                        "lng": 107.6874620802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.956959880291502, 
+                        "lng": 107.6847641197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
+            "formatted_address": "Jalan Gede Bage No.292, Rancabolang, Gedebage, Kota Bandung, Jawa Barat 40295, Indonesia", 
+            "place_id": "ChIJmXpj-pHCaC4RXrp3YiezimQ", 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "292", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "292"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan Gede Bage", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jalan Gede Bage"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Rancabolang", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Rancabolang"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Gedebage", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Gedebage"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -75,69 +77,71 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40295", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40295"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "partial_match": true, 
             "types": [
-                "establishment", 
-                "health", 
-                "point_of_interest"
+                "street_address"
             ]
         }, 
         {
             "geometry": {
-                "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                "location_type": "GEOMETRIC_CENTER", 
+                "bounds": {
+                    "northeast": {
+                        "lat": -6.939804, 
+                        "lng": 107.6920237
+                    }, 
+                    "southwest": {
+                        "lat": -6.9401603, 
+                        "lng": 107.6902073
+                    }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.938633169708497, 
+                        "lng": 107.6924644802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.941331130291502, 
+                        "lng": 107.6897665197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location": {
+                    "lat": -6.9399898, 
+                    "lng": 107.6909921
+                }
             }, 
+            "formatted_address": "Jl. Gede Bage Selatan, Babakan Penghulu, Cinambo, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJiVlAt7jCaC4R0MhRlsgLeSA", 
             "address_components": [
                 {
-                    "long_name": "26", 
-                    "types": [
-                        "street_number"
-                    ], 
-                    "short_name": "26"
-                }, 
-                {
-                    "long_name": "Jalan Sukamulya", 
+                    "long_name": "Jalan Gede Bage Selatan", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukamulya"
+                    "short_name": "Jl. Gede Bage Selatan"
                 }, 
                 {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Babakan Penghulu", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Babakan Penghulu"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Cinambo", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Cinambo"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -162,20 +166,11 @@
                         "political"
                     ], 
                     "short_name": "ID"
-                }, 
-                {
-                    "long_name": "40162", 
-                    "types": [
-                        "postal_code"
-                    ], 
-                    "short_name": "40162"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "partial_match": true, 
             "types": [
-                "establishment", 
-                "point_of_interest"
+                "route"
             ]
         }
     ]

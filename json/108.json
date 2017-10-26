@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.877675099999999, 
+                    "lng": 107.5910415
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.876326119708497, 
+                        "lng": 107.5923904802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.879024080291502, 
+                        "lng": 107.5896925197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "40", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "40"
+                }, 
+                {
+                    "long_name": "Jalan Sindang Sirna", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Sindang Sirna"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Gegerkalong", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Gegerkalong"
+                }, 
+                {
+                    "long_name": "Sukasari", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Sukasari"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40151", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40151"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJK-zzHI7maC4RilLKeIDrP-M", 
+            "formatted_address": "Jl. Sindang Sirna No.40, Gegerkalong, Sukasari, Kota Bandung, Jawa Barat 40151, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

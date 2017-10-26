@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9153578, 
+                    "lng": 107.5901672
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.914008819708497, 
+                        "lng": 107.5915161802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.916706780291502, 
+                        "lng": 107.5888182197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "18", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "18"
+                }, 
+                {
+                    "long_name": "Jalan Arjuna", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Arjuna"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Ciroyom", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Ciroyom"
+                }, 
+                {
+                    "long_name": "Andir", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Andir"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40182", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40182"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJ0RM_FxHmaC4R-3lgYxhhwaI", 
+            "formatted_address": "Jl. Arjuna No.18, Ciroyom, Andir, Kota Bandung, Jawa Barat 40182, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

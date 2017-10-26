@@ -4,53 +4,53 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.9261366, 
+                    "lng": 107.5744975
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.924787619708497, 
+                        "lng": 107.5758464802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.927485580291502, 
+                        "lng": 107.5731485197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "RANGE_INTERPOLATED"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
+            "formatted_address": "Jl. Holis No.210, Caringin, Bandung Kulon, Kota Bandung, Jawa Barat 40212, Indonesia", 
+            "place_id": "ElRKbC4gSG9saXMgTm8uMjEwLCBDYXJpbmdpbiwgQmFuZHVuZyBLdWxvbiwgS290YSBCYW5kdW5nLCBKYXdhIEJhcmF0IDQwMjEyLCBJbmRvbmVzaWE", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "210", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "210"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Holis", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Holis"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Caringin", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Caringin"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Bandung Kulon", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Bandung Kulon"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,11 +77,11 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40212", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40212"
                 }
             ], 
             "partial_match": true, 

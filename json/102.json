@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9104484, 
+                    "lng": 107.6096004
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.909099419708499, 
+                        "lng": 107.6109493802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.911797380291502, 
+                        "lng": 107.6082514197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "36", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "36"
+                }, 
+                {
+                    "long_name": "Jalan Aceh", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Aceh"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Babakan Ciamis", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Babakan Ciamis"
+                }, 
+                {
+                    "long_name": "Sumur Bandung", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Sumur Bandung"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40117", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40117"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJQRnA1TnmaC4RVlLaADfG20c", 
+            "formatted_address": "Jl. Aceh No.36, Babakan Ciamis, Sumur Bandung, Kota Bandung, Jawa Barat 40117, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

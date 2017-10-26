@@ -4,53 +4,53 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.9072894, 
+                    "lng": 107.5953813
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.905940419708497, 
+                        "lng": 107.5967302802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.908638380291502, 
+                        "lng": 107.5940323197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "RANGE_INTERPOLATED"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
+            "formatted_address": "Jl. Purabaya No.1, Arjuna, Cicendo, Kota Bandung, Jawa Barat 40172, Indonesia", 
+            "place_id": "Ek1KbC4gUHVyYWJheWEgTm8uMSwgQXJqdW5hLCBDaWNlbmRvLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQgNDAxNzIsIEluZG9uZXNpYQ", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "1", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "1"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Purabaya", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Purabaya"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Arjuna", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Arjuna"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Cicendo", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Cicendo"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,11 +77,11 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40172", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40172"
                 }
             ], 
             "partial_match": true, 

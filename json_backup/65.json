@@ -4,61 +4,59 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.8924001, 
+                    "lng": 107.6408477
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.891051119708497, 
+                        "lng": 107.6421966802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.893749080291502, 
+                        "lng": 107.6394987197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "275 C", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "275 C"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Cikutra", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Cikutra"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Neglasari", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Neglasari"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Cibeunying Kaler", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Cibeunying Kaler"
                 }, 
                 {
-                    "long_name": "Kota Bandung", 
+                    "long_name": "Bandung", 
                     "types": [
                         "administrative_area_level_2", 
                         "political"
                     ], 
-                    "short_name": "Kota Bandung"
+                    "short_name": "Bandung"
                 }, 
                 {
                     "long_name": "Jawa Barat", 
@@ -77,16 +75,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40124", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40124"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJ4_rGv6PnaC4R1bAB5Aa10zM", 
+            "formatted_address": "Jl. Cikutra No.275 C, Neglasari, Cibeunying Kaler, Bandung, Jawa Barat 40124, Indonesia", 
             "types": [
-                "street_address"
+                "establishment", 
+                "health", 
+                "point_of_interest"
             ]
         }
     ]

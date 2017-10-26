@@ -6,44 +6,52 @@
                 "location_type": "GEOMETRIC_CENTER", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9377803, 
+                        "lng": 107.6269829
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.938248199999999, 
+                        "lng": 107.6262448
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.936665269708498, 
+                        "lng": 107.6279628302915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.939363230291502, 
+                        "lng": 107.6252648697085
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.9380143, 
+                    "lng": 107.6266227
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jalan Solontongan II", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Solontongan II"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Turangga", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Turangga"
+                }, 
+                {
+                    "long_name": "Lengkong", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Lengkong"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,10 +76,17 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40264", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40264"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJrZE5UWPoaC4RkPdKdj8W7pw", 
+            "formatted_address": "Jl. Solontongan II, Turangga, Lengkong, Kota Bandung, Jawa Barat 40264, Indonesia", 
             "types": [
                 "route"
             ]

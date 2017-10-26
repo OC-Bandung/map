@@ -4,69 +4,67 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -7.259472000000001, 
+                    "lng": 112.7268041
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -7.258123019708498, 
+                        "lng": 112.7281530802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -7.260820980291503, 
+                        "lng": 112.7254551197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "22A", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "22A"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Raya Arjuno", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Raya Arjuno"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Sawahan", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Sawahan"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Kecamatan Sawahan", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Kec. Sawahan"
                 }, 
                 {
-                    "long_name": "Kota Bandung", 
+                    "long_name": "Kota Surabaya", 
                     "types": [
                         "administrative_area_level_2", 
                         "political"
                     ], 
-                    "short_name": "Kota Bandung"
+                    "short_name": "Kota SBY"
                 }, 
                 {
-                    "long_name": "Jawa Barat", 
+                    "long_name": "Jawa Timur", 
                     "types": [
                         "administrative_area_level_1", 
                         "political"
                     ], 
-                    "short_name": "Jawa Barat"
+                    "short_name": "Jawa Timur"
                 }, 
                 {
                     "long_name": "Indonesia", 
@@ -77,16 +75,18 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "60251", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "60251"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJG496rFD51y0R3lfxTb5uL84", 
+            "formatted_address": "Jl. Raya Arjuno No.22A, Sawahan, Kec. Sawahan, Kota SBY, Jawa Timur 60251, Indonesia", 
             "types": [
-                "street_address"
+                "establishment", 
+                "point_of_interest"
             ]
         }
     ]

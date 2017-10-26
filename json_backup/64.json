@@ -6,52 +6,36 @@
                 "location_type": "GEOMETRIC_CENTER", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.865697099999999, 
+                        "lng": 107.5935599
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.8704633, 
+                        "lng": 107.5745237
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.865697099999999, 
+                        "lng": 107.5935599
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.8704633, 
+                        "lng": 107.5745237
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.8681927, 
+                    "lng": 107.5839953
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jalan Gegerkalong Hilir", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
-                }, 
-                {
-                    "long_name": "Rancasari", 
-                    "types": [
-                        "administrative_area_level_3", 
-                        "political"
-                    ], 
-                    "short_name": "Rancasari"
-                }, 
-                {
-                    "long_name": "Kota Bandung", 
-                    "types": [
-                        "administrative_area_level_2", 
-                        "political"
-                    ], 
-                    "short_name": "Kota Bandung"
+                    "short_name": "Jl. Gegerkalong Hilir"
                 }, 
                 {
                     "long_name": "Jawa Barat", 
@@ -70,8 +54,8 @@
                     "short_name": "ID"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJ0_VZpZjmaC4RjxF5m3L17Ro", 
+            "formatted_address": "Jl. Gegerkalong Hilir, Jawa Barat, Indonesia", 
             "types": [
                 "route"
             ]

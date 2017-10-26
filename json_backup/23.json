@@ -3,47 +3,38 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.8865765, 
+                    "lng": 107.6221488
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.885227519708499, 
+                        "lng": 107.6234977802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.887925480291503, 
+                        "lng": 107.6207998197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "GEOMETRIC_CENTER"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Sekeloa", 
                     "types": [
-                        "route"
+                        "administrative_area_level_4", 
+                        "political"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Sekeloa"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Coblong", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Coblong"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +59,21 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40134", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40134"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJfdjTBQDnaC4RgMf_iS80f6E", 
+            "formatted_address": "Jl. Sadang Luhur XI, Coblong, Sekeloa, Coblong, Kota Bandung, Jawa Barat 40134, Indonesia", 
             "types": [
-                "route"
+                "establishment", 
+                "point_of_interest", 
+                "school"
             ]
         }
     ]

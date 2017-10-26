@@ -4,53 +4,53 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.8994067, 
+                    "lng": 107.642505
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.898057719708498, 
+                        "lng": 107.6438539802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.900755680291502, 
+                        "lng": 107.6411560197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
+            "formatted_address": "Jl. PH.H. Mustofa No.53, Neglasari, Cibeunying Kaler, Kota Bandung, Jawa Barat 40124, Indonesia", 
+            "place_id": "ChIJ6a5Gsr3naC4RQs9ccWP9Nbg", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "53", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "53"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan PH.H. Mustofa", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. PH.H. Mustofa"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Neglasari", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Neglasari"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Cibeunying Kaler", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Cibeunying Kaler"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,11 +77,11 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40124", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40124"
                 }
             ], 
             "partial_match": true, 

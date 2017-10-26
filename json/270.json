@@ -4,51 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.8922453, 
-                    "lng": 107.5945149
+                    "lat": -6.9271574, 
+                    "lng": 107.7111354
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890896319708498, 
-                        "lng": 107.5958638802915
+                        "lat": -6.925808419708497, 
+                        "lng": 107.7124843802915
                     }, 
                     "southwest": {
-                        "lat": -6.893594280291502, 
-                        "lng": 107.5931659197085
+                        "lat": -6.928506380291502, 
+                        "lng": 107.7097864197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "73", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "73"
                 }, 
                 {
-                    "long_name": "Jalan Sukagalih", 
+                    "long_name": "Jalan A.H. Nasution", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukagalih"
+                    "short_name": "Jalan Ahmad Nasution"
                 }, 
                 {
-                    "long_name": "Cipedes", 
+                    "long_name": "Palasari", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Cipedes"
+                    "short_name": "Palasari"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Cibiru", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Cibiru"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -75,69 +75,67 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40614", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40614"
                 }
             ], 
-            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
-            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJ1x45Y9TCaC4Rmv7gm-XnDIM", 
+            "formatted_address": "Jl. A.H. Nasution No.73, Palasari, Cibiru, Kota Bandung, Jawa Barat 40614, Indonesia", 
             "types": [
-                "establishment", 
-                "health", 
-                "point_of_interest"
+                "street_address"
             ]
         }, 
         {
             "geometry": {
                 "location": {
-                    "lat": -6.89187, 
-                    "lng": 107.588407
+                    "lat": -6.90588, 
+                    "lng": 107.683346
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.890521019708498, 
-                        "lng": 107.5897559802915
+                        "lat": -6.904531019708497, 
+                        "lng": 107.6846949802915
                     }, 
                     "southwest": {
-                        "lat": -6.893218980291502, 
-                        "lng": 107.5870580197085
+                        "lat": -6.907228980291502, 
+                        "lng": 107.6819970197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "26", 
+                    "long_name": "73", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "26"
+                    "short_name": "73"
                 }, 
                 {
-                    "long_name": "Jalan Sukamulya", 
+                    "long_name": "Jalan A.H. Nasution", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sukamulya"
+                    "short_name": "Jalan Ahmad Nasution"
                 }, 
                 {
-                    "long_name": "Sukagalih", 
+                    "long_name": "Sindang Jaya", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Sukagalih"
+                    "short_name": "Sindang Jaya"
                 }, 
                 {
-                    "long_name": "Sukajadi", 
+                    "long_name": "Mandalajati", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Sukajadi"
+                    "short_name": "Mandalajati"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -164,18 +162,17 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40162", 
+                    "long_name": "40195", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40162"
+                    "short_name": "40195"
                 }
             ], 
-            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
-            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "place_id": "ChIJTeuMi0LdaC4Rc-HvbSv1p_A", 
+            "formatted_address": "Jl. A.H. Nasution No.73, Sindang Jaya, Mandalajati, Kota Bandung, Jawa Barat 40195, Indonesia", 
             "types": [
-                "establishment", 
-                "point_of_interest"
+                "street_address"
             ]
         }
     ]

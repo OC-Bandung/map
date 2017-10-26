@@ -6,44 +6,36 @@
                 "location_type": "GEOMETRIC_CENTER", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9087138, 
+                        "lng": 107.644914
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9459101, 
+                        "lng": 107.6417288
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.9087138, 
+                        "lng": 107.644914
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9459101, 
+                        "lng": 107.6417288
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.927531099999999, 
+                    "lng": 107.6443497
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jalan Kiaracondong", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
-                }, 
-                {
-                    "long_name": "Rancasari", 
-                    "types": [
-                        "administrative_area_level_3", 
-                        "political"
-                    ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Jl. Kiaracondong"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -70,8 +62,8 @@
                     "short_name": "ID"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJge56X3XoaC4RSzFXuBAlxNs", 
+            "formatted_address": "Jl. Kiaracondong, Kota Bandung, Jawa Barat, Indonesia", 
             "types": [
                 "route"
             ]

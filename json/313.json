@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.9079425, 
+                    "lng": 107.6132741
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.906593519708498, 
+                        "lng": 107.6146230802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.909291480291502, 
+                        "lng": 107.6119251197085
                     }
                 }, 
-                "location_type": "ROOFTOP"
+                "location_type": "RANGE_INTERPOLATED"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "2", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "2"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Seram", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Seram"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Citarum", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Citarum"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Bandung Wetan", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Bandung Wetan"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,14 +75,15 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40115", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40115"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ElFKbC4gU2VyYW0gTm8uMiwgQ2l0YXJ1bSwgQmFuZHVuZyBXZXRhbiwgS290YSBCYW5kdW5nLCBKYXdhIEJhcmF0IDQwMTE1LCBJbmRvbmVzaWE", 
+            "formatted_address": "Jl. Seram No.2, Citarum, Bandung Wetan, Kota Bandung, Jawa Barat 40115, Indonesia", 
             "types": [
                 "street_address"
             ]

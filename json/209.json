@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.9372665, 
+                    "lng": 107.5829475
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.935917519708497, 
+                        "lng": 107.5842964802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.938615480291502, 
+                        "lng": 107.5815985197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "212", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "212"
+                }, 
+                {
+                    "long_name": "Jalan Babakan Ciparay", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Babakan Ciparay"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Babakan Ciparay", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Babakan Ciparay"
+                }, 
+                {
+                    "long_name": "Babakan Ciparay", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Babakan Ciparay"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40223", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40223"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJ_aaeVK7oaC4R3QL7ZQf15cQ", 
+            "formatted_address": "Jl. Babakan Ciparay No.212, Babakan Ciparay, Kota Bandung, Jawa Barat 40223, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]

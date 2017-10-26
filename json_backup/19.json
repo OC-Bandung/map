@@ -4,69 +4,81 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.208727, 
+                    "lng": 106.8268203
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.207378019708497, 
+                        "lng": 106.8281692802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.210075980291502, 
+                        "lng": 106.8254713197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "89", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "89"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan Setia Budi Tengah", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. Setia Budi Tengah"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "1", 
+                    "types": [
+                        "political"
+                    ], 
+                    "short_name": "1"
+                }, 
+                {
+                    "long_name": "1", 
+                    "types": [
+                        "political"
+                    ], 
+                    "short_name": "1"
+                }, 
+                {
+                    "long_name": "Setia Budi", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Setia Budi"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Kecamatan Setiabudi", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Kecamatan Setiabudi"
                 }, 
                 {
-                    "long_name": "Kota Bandung", 
+                    "long_name": "Kota Jakarta Selatan", 
                     "types": [
                         "administrative_area_level_2", 
                         "political"
                     ], 
-                    "short_name": "Kota Bandung"
+                    "short_name": "Kota Jakarta Selatan"
                 }, 
                 {
-                    "long_name": "Jawa Barat", 
+                    "long_name": "Daerah Khusus Ibukota Jakarta", 
                     "types": [
                         "administrative_area_level_1", 
                         "political"
                     ], 
-                    "short_name": "Jawa Barat"
+                    "short_name": "Daerah Khusus Ibukota Jakarta"
                 }, 
                 {
                     "long_name": "Indonesia", 
@@ -77,16 +89,19 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "12910", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "12910"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJG2FuAgX0aS4R6Q50ePDgtmk", 
+            "formatted_address": "Jl. Setia Budi Tengah No.89, RT.1/RW.1, Setia Budi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910, Indonesia", 
             "types": [
-                "street_address"
+                "establishment", 
+                "lodging", 
+                "point_of_interest"
             ]
         }
     ]

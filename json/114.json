@@ -4,53 +4,51 @@
         {
             "geometry": {
                 "location": {
-                    "lat": -6.9042999, 
-                    "lng": 107.6804222
+                    "lat": -6.9332804, 
+                    "lng": 107.6265282
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.902950919708498, 
-                        "lng": 107.6817711802915
+                        "lat": -6.931931419708498, 
+                        "lng": 107.6278771802915
                     }, 
                     "southwest": {
-                        "lat": -6.905648880291502, 
-                        "lng": 107.6790732197085
+                        "lat": -6.934629380291502, 
+                        "lng": 107.6251792197085
                     }
                 }, 
                 "location_type": "ROOFTOP"
             }, 
-            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
-            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
             "address_components": [
                 {
-                    "long_name": "10", 
+                    "long_name": "4", 
                     "types": [
                         "street_number"
                     ], 
-                    "short_name": "10"
+                    "short_name": "4"
                 }, 
                 {
-                    "long_name": "Jalan Sindanglaya", 
+                    "long_name": "Jalan R.A.A. Marta Negara", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Sindanglaya"
+                    "short_name": "Jl. R.A.A. Marta Negara"
                 }, 
                 {
-                    "long_name": "Pasir Impun", 
+                    "long_name": "Turangga", 
                     "types": [
                         "administrative_area_level_4", 
                         "political"
                     ], 
-                    "short_name": "Pasir Impun"
+                    "short_name": "Turangga"
                 }, 
                 {
-                    "long_name": "Mandalajati", 
+                    "long_name": "Lengkong", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Mandalajati"
+                    "short_name": "Lengkong"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -77,16 +75,18 @@
                     "short_name": "ID"
                 }, 
                 {
-                    "long_name": "40293", 
+                    "long_name": "40264", 
                     "types": [
                         "postal_code"
                     ], 
-                    "short_name": "40293"
+                    "short_name": "40264"
                 }
             ], 
-            "partial_match": true, 
+            "place_id": "ChIJVdFmNXroaC4RnlSsUYc6U3k", 
+            "formatted_address": "Jl. R.A.A. Marta Negara No.4, Turangga, Lengkong, Kota Bandung, Jawa Barat 40264, Indonesia", 
             "types": [
-                "street_address"
+                "establishment", 
+                "point_of_interest"
             ]
         }
     ]

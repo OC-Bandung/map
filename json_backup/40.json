@@ -6,44 +6,36 @@
                 "location_type": "GEOMETRIC_CENTER", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.939209600000001, 
+                        "lng": 107.5887678
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9469366, 
+                        "lng": 107.5668615
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.939209600000001, 
+                        "lng": 107.5887678
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.9469366, 
+                        "lng": 107.5668615
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.94344, 
+                    "lng": 107.577695
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jalan Caringin", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
-                }, 
-                {
-                    "long_name": "Rancasari", 
-                    "types": [
-                        "administrative_area_level_3", 
-                        "political"
-                    ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Jl. Caringin"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -70,8 +62,8 @@
                     "short_name": "ID"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJC5eG6bPoaC4RZZ63t8X2Jm8", 
+            "formatted_address": "Jl. Caringin, Kota Bandung, Jawa Barat, Indonesia", 
             "types": [
                 "route"
             ]

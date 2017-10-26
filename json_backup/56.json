@@ -6,44 +6,52 @@
                 "location_type": "GEOMETRIC_CENTER", 
                 "bounds": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.861917, 
+                        "lng": 107.6087408
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.864151499999999, 
+                        "lng": 107.6059959
                     }
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.861685269708498, 
+                        "lng": 107.6087408
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.864383230291502, 
+                        "lng": 107.6059959
                     }
                 }, 
                 "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
+                    "lat": -6.8631531, 
+                    "lng": 107.607616
                 }
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "Jalan Bukit Raya", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Bukit Raya"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Ciumbuleuit", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Ciumbuleuit"
+                }, 
+                {
+                    "long_name": "Cidadap", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Cidadap"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,10 +76,17 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40142", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40142"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJK6mC_8LmaC4RLOHe8riduK8", 
+            "formatted_address": "Jl. Bukit Raya, Ciumbuleuit, Cidadap, Kota Bandung, Jawa Barat 40142, Indonesia", 
             "types": [
                 "route"
             ]

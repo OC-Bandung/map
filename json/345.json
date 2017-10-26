@@ -3,47 +3,52 @@
     "results": [
         {
             "geometry": {
-                "location_type": "GEOMETRIC_CENTER", 
-                "bounds": {
-                    "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
-                    }, 
-                    "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
-                    }
+                "location": {
+                    "lat": -6.945546100000001, 
+                    "lng": 107.5830326
                 }, 
                 "viewport": {
                     "northeast": {
-                        "lat": -6.9640348, 
-                        "lng": 107.6868015
+                        "lat": -6.944197119708499, 
+                        "lng": 107.5843815802915
                     }, 
                     "southwest": {
-                        "lat": -6.9692308, 
-                        "lng": 107.6765592
+                        "lat": -6.946895080291503, 
+                        "lng": 107.5816836197085
                     }
                 }, 
-                "location": {
-                    "lat": -6.9646878, 
-                    "lng": 107.6821595
-                }
+                "location_type": "ROOFTOP"
             }, 
             "address_components": [
                 {
-                    "long_name": "Jalan Derwati", 
+                    "long_name": "103", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "103"
+                }, 
+                {
+                    "long_name": "Jalan Caringin", 
                     "types": [
                         "route"
                     ], 
-                    "short_name": "Jl. Derwati"
+                    "short_name": "Jl. Caringin"
                 }, 
                 {
-                    "long_name": "Rancasari", 
+                    "long_name": "Babakan Ciparay", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Babakan Ciparay"
+                }, 
+                {
+                    "long_name": "Babakan Ciparay", 
                     "types": [
                         "administrative_area_level_3", 
                         "political"
                     ], 
-                    "short_name": "Rancasari"
+                    "short_name": "Babakan Ciparay"
                 }, 
                 {
                     "long_name": "Kota Bandung", 
@@ -68,12 +73,19 @@
                         "political"
                     ], 
                     "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40223", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40223"
                 }
             ], 
-            "place_id": "EjtKbC4gRGVyd2F0aSwgUmFuY2FzYXJpLCBLb3RhIEJhbmR1bmcsIEphd2EgQmFyYXQsIEluZG9uZXNpYQ", 
-            "formatted_address": "Jl. Derwati, Rancasari, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJr9SG2LboaC4R1TA2d7h_IcQ", 
+            "formatted_address": "Jl. Caringin No.103, Babakan Ciparay, Kota Bandung, Jawa Barat 40223, Indonesia", 
             "types": [
-                "route"
+                "street_address"
             ]
         }
     ]
