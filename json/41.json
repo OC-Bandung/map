@@ -1,0 +1,89 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location_type": "GEOMETRIC_CENTER", 
+                "bounds": {
+                    "northeast": {
+                        "lat": -6.9217206, 
+                        "lng": 107.6587075
+                    }, 
+                    "southwest": {
+                        "lat": -6.9276297, 
+                        "lng": 107.6443923
+                    }
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.9217206, 
+                        "lng": 107.6587075
+                    }, 
+                    "southwest": {
+                        "lat": -6.9276297, 
+                        "lng": 107.6443923
+                    }
+                }, 
+                "location": {
+                    "lat": -6.924349599999999, 
+                    "lng": 107.6532188
+                }
+            }, 
+            "formatted_address": "Jl. Babakan Sari, Babakan Sari, Kiaracondong, Kota Bandung, Jawa Barat, Indonesia", 
+            "place_id": "ChIJrRH3-OLnaC4RS9NBHGpzxBk", 
+            "address_components": [
+                {
+                    "long_name": "Jalan Babakan Sari", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Babakan Sari"
+                }, 
+                {
+                    "long_name": "Babakan Sari", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Babakan Sari"
+                }, 
+                {
+                    "long_name": "Kiaracondong", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Kiaracondong"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "route"
+            ]
+        }
+    ]
+}

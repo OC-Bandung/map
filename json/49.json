@@ -1,0 +1,93 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.923139399999999, 
+                    "lng": 107.6598766
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.921790419708497, 
+                        "lng": 107.6612255802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.924488380291502, 
+                        "lng": 107.6585276197085
+                    }
+                }, 
+                "location_type": "RANGE_INTERPOLATED"
+            }, 
+            "formatted_address": "Jl. Yogyakarta No.1, Antapani Kidul, Antapani, Kota Bandung, Jawa Barat 40291, Indonesia", 
+            "place_id": "ElhKbC4gWW9neWFrYXJ0YSBOby4xLCBBbnRhcGFuaSBLaWR1bCwgQW50YXBhbmksIEtvdGEgQmFuZHVuZywgSmF3YSBCYXJhdCA0MDI5MSwgSW5kb25lc2lh", 
+            "address_components": [
+                {
+                    "long_name": "1", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "1"
+                }, 
+                {
+                    "long_name": "Jalan Yogyakarta", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Yogyakarta"
+                }, 
+                {
+                    "long_name": "Antapani Kidul", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Antapani Kidul"
+                }, 
+                {
+                    "long_name": "Antapani", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Antapani"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40291", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40291"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

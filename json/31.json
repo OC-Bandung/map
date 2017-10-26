@@ -1,0 +1,164 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.904949599999999, 
+                    "lng": 107.6347146
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.903600619708497, 
+                        "lng": 107.6360635802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.906298580291502, 
+                        "lng": 107.6333656197085
+                    }
+                }, 
+                "location_type": "GEOMETRIC_CENTER"
+            }, 
+            "formatted_address": "Jl. Yudhawastu Pramuka I, Cicadas, Cibeunying Kidul, Kota Bandung, Jawa Barat 40121, Indonesia", 
+            "place_id": "ChIJZ7uSAXzmaC4R7XnDtwWP9P0", 
+            "address_components": [
+                {
+                    "long_name": "Jalan Yudhawastu Pramuka I", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Yudhawastu Pramuka I"
+                }, 
+                {
+                    "long_name": "Cicadas", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Cicadas"
+                }, 
+                {
+                    "long_name": "Cibeunying Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cibeunying Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40121", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40121"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9029577, 
+                    "lng": 107.6359022
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.901608719708498, 
+                        "lng": 107.6372511802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.904306680291502, 
+                        "lng": 107.6345532197085
+                    }
+                }, 
+                "location_type": "GEOMETRIC_CENTER"
+            }, 
+            "formatted_address": "Jl. Yudhawastu Pramuka IV, Cicadas, Cibeunying Kidul, Kota Bandung, Jawa Barat 40121, Indonesia", 
+            "place_id": "ChIJH_i_lbnnaC4RL4EqbqJY4_c", 
+            "address_components": [
+                {
+                    "long_name": "Cicadas", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Cicadas"
+                }, 
+                {
+                    "long_name": "Cibeunying Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cibeunying Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40121", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40121"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }
+    ]
+}

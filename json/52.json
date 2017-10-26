@@ -1,0 +1,94 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.966316399999999, 
+                    "lng": 107.6664354
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.964967419708497, 
+                        "lng": 107.6677843802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.967665380291502, 
+                        "lng": 107.6650864197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "19", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "19"
+                }, 
+                {
+                    "long_name": "Jalan Baturaden VIII", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Baturaden VIII"
+                }, 
+                {
+                    "long_name": "Mekarjaya", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mekarjaya"
+                }, 
+                {
+                    "long_name": "Rancasari", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Rancasari"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40292", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40292"
+                }
+            ], 
+            "place_id": "ChIJCdUQ_-rCaC4R6RBeJwDrLm8", 
+            "formatted_address": "Jl. Baturaden VIII No.19, Mekarjaya, Rancasari, Kota Bandung, Jawa Barat 40292, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }
+    ]
+}

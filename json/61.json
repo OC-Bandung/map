@@ -1,0 +1,187 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9112902, 
+                    "lng": 107.5782413
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.909941219708498, 
+                        "lng": 107.5795902802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.912639180291502, 
+                        "lng": 107.5768923197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Dadali No.6, Garuda, Andir, Kota Bandung, Jawa Barat 40184, Indonesia", 
+            "place_id": "ChIJH36JCQvmaC4Rb0UXtKdXYEw", 
+            "address_components": [
+                {
+                    "long_name": "6", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "6"
+                }, 
+                {
+                    "long_name": "Jalan Dadali", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Dadali"
+                }, 
+                {
+                    "long_name": "Garuda", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Garuda"
+                }, 
+                {
+                    "long_name": "Andir", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Andir"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40184", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40184"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.094639, 
+                    "lng": 106.178948
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.093290019708498, 
+                        "lng": 106.1802969802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.095987980291502, 
+                        "lng": 106.1775990197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "6", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "6"
+                }, 
+                {
+                    "long_name": "D9", 
+                    "types": [
+                        "premise"
+                    ], 
+                    "short_name": "D9"
+                }, 
+                {
+                    "long_name": "Jalan Dadali", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Dadali"
+                }, 
+                {
+                    "long_name": "Kaligandu", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Kaligandu"
+                }, 
+                {
+                    "long_name": "Kecamatan Serang", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Kec. Serang"
+                }, 
+                {
+                    "long_name": "Kota Serang", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Serang"
+                }, 
+                {
+                    "long_name": "Banten", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Banten"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "42116", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "42116"
+                }
+            ], 
+            "place_id": "ChIJ9exqf8D0QS4RBpCJAIR1y_g", 
+            "formatted_address": "Jl. Dadali Blok D9 No.6, Kaligandu, Kec. Serang, Kota Serang, Banten 42116, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

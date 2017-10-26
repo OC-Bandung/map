@@ -1,0 +1,80 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location_type": "GEOMETRIC_CENTER", 
+                "bounds": {
+                    "northeast": {
+                        "lat": -6.9444346, 
+                        "lng": 107.5804414
+                    }, 
+                    "southwest": {
+                        "lat": -6.947102999999999, 
+                        "lng": 107.5787036
+                    }
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.944419819708498, 
+                        "lng": 107.5809214802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.947117780291502, 
+                        "lng": 107.5782235197085
+                    }
+                }, 
+                "location": {
+                    "lat": -6.945973800000001, 
+                    "lng": 107.5799311
+                }
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Gang Lumbung 2", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Gg. Lumbung 2"
+                }, 
+                {
+                    "long_name": "Babakan Ciparay", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Babakan Ciparay"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }
+            ], 
+            "place_id": "ChIJeRItqLboaC4R2pZo-oy8xR8", 
+            "formatted_address": "Gg. Lumbung 2, Babakan Ciparay, Kota Bandung, Jawa Barat, Indonesia", 
+            "types": [
+                "route"
+            ]
+        }
+    ]
+}

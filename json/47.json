@@ -1,0 +1,87 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9254387, 
+                    "lng": 107.606783
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.924089719708499, 
+                        "lng": 107.6081319802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.926787680291502, 
+                        "lng": 107.6054340197085
+                    }
+                }, 
+                "location_type": "GEOMETRIC_CENTER"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Jalan Kautamaan Istri", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Kautamaan Istri"
+                }, 
+                {
+                    "long_name": "Balonggede", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Balonggede"
+                }, 
+                {
+                    "long_name": "Regol", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Regol"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40251", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40251"
+                }
+            ], 
+            "place_id": "ChIJoyrfVSbmaC4RiVB4TKpk-w4", 
+            "formatted_address": "Jl. Kautamaan Istri, Balonggede, Regol, Kota Bandung, Jawa Barat 40251, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9119431, 
+                    "lng": 107.63381
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.910594119708498, 
+                        "lng": 107.6351589802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.913292080291503, 
+                        "lng": 107.6324610197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "24", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "24"
+                }, 
+                {
+                    "long_name": "Jalan W.R. Supratman", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. W.R. Supratman"
+                }, 
+                {
+                    "long_name": "Sukamaju", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Sukamaju"
+                }, 
+                {
+                    "long_name": "Cibeunying Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cibeunying Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40121", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40121"
+                }
+            ], 
+            "place_id": "ChIJIz2dSsjnaC4RTBV6hm3a_Wo", 
+            "formatted_address": "Jl. W.R. Supratman No.24, Sukamaju, Cibeunying Kidul, Kota Bandung, Jawa Barat 40121, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }
+    ]
+}

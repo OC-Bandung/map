@@ -1,0 +1,94 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9006013, 
+                    "lng": 107.5976994
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.899252319708498, 
+                        "lng": 107.5990483802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.901950280291502, 
+                        "lng": 107.5963504197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "188", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "188"
+                }, 
+                {
+                    "long_name": "Jalan Pasirkaliki", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Pasirkaliki"
+                }, 
+                {
+                    "long_name": "Pasir Kaliki", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Pasir Kaliki"
+                }, 
+                {
+                    "long_name": "Cicendo", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cicendo"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40162", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40162"
+                }
+            ], 
+            "place_id": "ChIJwWtt1mnmaC4RqhUx5QchYcY", 
+            "formatted_address": "Jl. Pasirkaliki No.188, Pasir Kaliki, Cicendo, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "types": [
+                "establishment", 
+                "health", 
+                "point_of_interest"
+            ]
+        }
+    ]
+}

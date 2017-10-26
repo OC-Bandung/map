@@ -1,0 +1,93 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.917945, 
+                    "lng": 107.6016225
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.916596019708497, 
+                        "lng": 107.6029714802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.919293980291502, 
+                        "lng": 107.6002735197085
+                    }
+                }, 
+                "location_type": "RANGE_INTERPOLATED"
+            }, 
+            "formatted_address": "Jl. Yakub No.36, Kb. Jeruk, Andir, Kota Bandung, Jawa Barat 40181, Indonesia", 
+            "place_id": "EkxKbC4gWWFrdWIgTm8uMzYsIEtiLiBKZXJ1aywgQW5kaXIsIEtvdGEgQmFuZHVuZywgSmF3YSBCYXJhdCA0MDE4MSwgSW5kb25lc2lh", 
+            "address_components": [
+                {
+                    "long_name": "36", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "36"
+                }, 
+                {
+                    "long_name": "Jalan Yakub", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Yakub"
+                }, 
+                {
+                    "long_name": "Kebon Jeruk", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Kb. Jeruk"
+                }, 
+                {
+                    "long_name": "Andir", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Andir"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40181", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40181"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

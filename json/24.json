@@ -1,0 +1,94 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.920327299999999, 
+                    "lng": 107.6263611
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.918978319708497, 
+                        "lng": 107.6277100802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.921676280291502, 
+                        "lng": 107.6250121197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "5", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "5"
+                }, 
+                {
+                    "long_name": "Jalan Centeh", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Centeh"
+                }, 
+                {
+                    "long_name": "Samoja", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Samoja"
+                }, 
+                {
+                    "long_name": "Batununggal", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Batununggal"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40273", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40273"
+                }
+            ], 
+            "place_id": "ChIJ21VFz9PnaC4RNuzSHVV3dLo", 
+            "formatted_address": "Jl. Centeh No.5, Samoja, Batununggal, Kota Bandung, Jawa Barat 40273, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }
+    ]
+}

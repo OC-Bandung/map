@@ -1,0 +1,94 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.8744314, 
+                    "lng": 107.6169688
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.873082419708497, 
+                        "lng": 107.6183177802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.875780380291502, 
+                        "lng": 107.6156198197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "12", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "12"
+                }, 
+                {
+                    "long_name": "Jalan Dago Pojok", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Dago Pojok"
+                }, 
+                {
+                    "long_name": "Dago", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Dago"
+                }, 
+                {
+                    "long_name": "Coblong", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Coblong"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40135", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40135"
+                }
+            ], 
+            "place_id": "ChIJGYhIbePmaC4RUrxidGRWO20", 
+            "formatted_address": "Jl. Dago Pojok No.12, Dago, Coblong, Kota Bandung, Jawa Barat 40135, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }
+    ]
+}

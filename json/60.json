@@ -1,0 +1,181 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.904403599999999, 
+                    "lng": 107.6285612
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.903054619708497, 
+                        "lng": 107.6299101802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.905752580291502, 
+                        "lng": 107.6272122197085
+                    }
+                }, 
+                "location_type": "RANGE_INTERPOLATED"
+            }, 
+            "formatted_address": "Jl. W.R. Supratman No.73, Cihapit, Bandung Wetan, Kota Bandung, Jawa Barat 40114, Indonesia", 
+            "place_id": "EltKbC4gVy5SLiBTdXByYXRtYW4gTm8uNzMsIENpaGFwaXQsIEJhbmR1bmcgV2V0YW4sIEtvdGEgQmFuZHVuZywgSmF3YSBCYXJhdCA0MDExNCwgSW5kb25lc2lh", 
+            "address_components": [
+                {
+                    "long_name": "73", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "73"
+                }, 
+                {
+                    "long_name": "Jalan W.R. Supratman", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. W.R. Supratman"
+                }, 
+                {
+                    "long_name": "Cihapit", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Cihapit"
+                }, 
+                {
+                    "long_name": "Bandung Wetan", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Wetan"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40114", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40114"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9071406, 
+                    "lng": 107.6298355
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.905791619708498, 
+                        "lng": 107.6311844802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.908489580291502, 
+                        "lng": 107.6284865197085
+                    }
+                }, 
+                "location_type": "RANGE_INTERPOLATED"
+            }, 
+            "formatted_address": "Jl. Lap. Supratman No.73, Cihapit, Bandung Wetan, Kota Bandung, Jawa Barat 40114, Indonesia", 
+            "place_id": "EltKbC4gTGFwLiBTdXByYXRtYW4gTm8uNzMsIENpaGFwaXQsIEJhbmR1bmcgV2V0YW4sIEtvdGEgQmFuZHVuZywgSmF3YSBCYXJhdCA0MDExNCwgSW5kb25lc2lh", 
+            "address_components": [
+                {
+                    "long_name": "73", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "73"
+                }, 
+                {
+                    "long_name": "Jalan Lapangan Supratman", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Lap. Supratman"
+                }, 
+                {
+                    "long_name": "Cihapit", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Cihapit"
+                }, 
+                {
+                    "long_name": "Bandung Wetan", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Wetan"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40114", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40114"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

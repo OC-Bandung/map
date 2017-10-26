@@ -1,0 +1,178 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.8140144, 
+                    "lng": 107.615117
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.812665419708498, 
+                        "lng": 107.6164659802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.815363380291502, 
+                        "lng": 107.6137680197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "282", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "282"
+                }, 
+                {
+                    "long_name": "Jalan Raya Lembang", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Raya Lembang"
+                }, 
+                {
+                    "long_name": "Jayagiri", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Jayagiri"
+                }, 
+                {
+                    "long_name": "Lembang", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Lembang"
+                }, 
+                {
+                    "long_name": "Kabupaten Bandung Barat", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kabupaten Bandung Barat"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40391", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40391"
+                }
+            ], 
+            "place_id": "ChIJV0pMpAThaC4Rl5xj6aN8JpE", 
+            "formatted_address": "Jl. Raya Lembang No.282, Jayagiri, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391, Indonesia", 
+            "types": [
+                "establishment", 
+                "mosque", 
+                "place_of_worship", 
+                "point_of_interest"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -7.0334369, 
+                    "lng": 107.5452649
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.032087919708498, 
+                        "lng": 107.5466138802915
+                    }, 
+                    "southwest": {
+                        "lat": -7.034785880291502, 
+                        "lng": 107.5439159197085
+                    }
+                }, 
+                "location_type": "GEOMETRIC_CENTER"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Jalan Raya Soreang-Banjaran", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Raya Soreang-Banjaran"
+                }, 
+                {
+                    "long_name": "Cingcin", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Cingcin"
+                }, 
+                {
+                    "long_name": "Soreang", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Soreang"
+                }, 
+                {
+                    "long_name": "Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40911", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40911"
+                }
+            ], 
+            "place_id": "ChIJ8wnTVT_saC4R30GF-g7EoE4", 
+            "formatted_address": "Jl. Raya Soreang-Banjaran, Cingcin, Soreang, Bandung, Jawa Barat 40911, Indonesia", 
+            "types": [
+                "establishment", 
+                "mosque", 
+                "place_of_worship", 
+                "point_of_interest"
+            ]
+        }
+    ]
+}

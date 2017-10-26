@@ -1,0 +1,72 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location_type": "GEOMETRIC_CENTER", 
+                "bounds": {
+                    "northeast": {
+                        "lat": -6.939209600000001, 
+                        "lng": 107.5887678
+                    }, 
+                    "southwest": {
+                        "lat": -6.9469366, 
+                        "lng": 107.5668615
+                    }
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.939209600000001, 
+                        "lng": 107.5887678
+                    }, 
+                    "southwest": {
+                        "lat": -6.9469366, 
+                        "lng": 107.5668615
+                    }
+                }, 
+                "location": {
+                    "lat": -6.94344, 
+                    "lng": 107.577695
+                }
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Jalan Caringin", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Caringin"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }
+            ], 
+            "place_id": "ChIJC5eG6bPoaC4RZZ63t8X2Jm8", 
+            "formatted_address": "Jl. Caringin, Kota Bandung, Jawa Barat, Indonesia", 
+            "types": [
+                "route"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.915840999999999, 
+                    "lng": 107.628979
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.914492019708497, 
+                        "lng": 107.6303279802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.917189980291502, 
+                        "lng": 107.6276300197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Jendral Ahmad Yani No.239, Merdeka, Sumur Bandung, Kota Bandung, Jawa Barat 40113, Indonesia", 
+            "place_id": "ChIJ11MXQM7naC4RbqRRf2rtvc8", 
+            "address_components": [
+                {
+                    "long_name": "239", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "239"
+                }, 
+                {
+                    "long_name": "Jalan Jendral Ahmad Yani", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jalan Jendral A. Yani"
+                }, 
+                {
+                    "long_name": "Merdeka", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Merdeka"
+                }, 
+                {
+                    "long_name": "Sumur Bandung", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Sumur Bandung"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40113", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40113"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

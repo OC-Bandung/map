@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.909841000000001, 
+                    "lng": 107.597021
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.9084920197085, 
+                        "lng": 107.5983699802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.911189980291503, 
+                        "lng": 107.5956720197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "5", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "5"
+                }, 
+                {
+                    "long_name": "Jalan Semar", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Semar"
+                }, 
+                {
+                    "long_name": "Arjuna", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Arjuna"
+                }, 
+                {
+                    "long_name": "Cicendo", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cicendo"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40172", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40172"
+                }
+            ], 
+            "place_id": "ChIJyT4NbxXmaC4RTFHtE-4YD3g", 
+            "formatted_address": "Jl. Semar No.5, Arjuna, Cicendo, Kota Bandung, Jawa Barat 40172, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

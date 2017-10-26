@@ -1,0 +1,95 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location_type": "GEOMETRIC_CENTER", 
+                "bounds": {
+                    "northeast": {
+                        "lat": -6.9049391, 
+                        "lng": 107.673618
+                    }, 
+                    "southwest": {
+                        "lat": -6.908795199999999, 
+                        "lng": 107.6727448
+                    }
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.9049391, 
+                        "lng": 107.6745303802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.908795199999999, 
+                        "lng": 107.6718324197085
+                    }
+                }, 
+                "location": {
+                    "lat": -6.906749899999999, 
+                    "lng": 107.6730163
+                }
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Jalan Pacuan Kuda", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Pacuan Kuda"
+                }, 
+                {
+                    "long_name": "Sukamiskin", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Sukamiskin"
+                }, 
+                {
+                    "long_name": "Arcamanik", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Arcamanik"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40293", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40293"
+                }
+            ], 
+            "place_id": "ChIJUcb99V7daC4RMhv2mksSBEM", 
+            "formatted_address": "Jl. Pacuan Kuda, Sukamiskin, Arcamanik, Kota Bandung, Jawa Barat 40293, Indonesia", 
+            "types": [
+                "route"
+            ]
+        }
+    ]
+}
