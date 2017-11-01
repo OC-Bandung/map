@@ -1,0 +1,74 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location_type": "APPROXIMATE", 
+                "bounds": {
+                    "northeast": {
+                        "lat": -6.883988899999999, 
+                        "lng": 107.687528
+                    }, 
+                    "southwest": {
+                        "lat": -6.9072279, 
+                        "lng": 107.656571
+                    }
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.883988899999999, 
+                        "lng": 107.687528
+                    }, 
+                    "southwest": {
+                        "lat": -6.9072279, 
+                        "lng": 107.656571
+                    }
+                }, 
+                "location": {
+                    "lat": -6.897547599999999, 
+                    "lng": 107.6718469
+                }
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Mandalajati", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Mandalajati"
+                }, 
+                {
+                    "long_name": "Bandung City", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung City"
+                }, 
+                {
+                    "long_name": "West Java", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "West Java"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }
+            ], 
+            "place_id": "ChIJneeBKGPdaC4Rddo7MBPvUe4", 
+            "formatted_address": "Mandalajati, Bandung City, West Java, Indonesia", 
+            "types": [
+                "administrative_area_level_3", 
+                "political"
+            ]
+        }
+    ]
+}

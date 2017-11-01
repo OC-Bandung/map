@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9121177, 
+                    "lng": 107.5892421
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.910768719708497, 
+                        "lng": 107.5905910802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.913466680291502, 
+                        "lng": 107.5878931197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "45", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "45"
+                }, 
+                {
+                    "long_name": "Jalan Arjuna", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Arjuna"
+                }, 
+                {
+                    "long_name": "Husen Sastranegara", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Husen Sastranegara"
+                }, 
+                {
+                    "long_name": "Cicendo", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cicendo"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40174", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40174"
+                }
+            ], 
+            "place_id": "ChIJcTu0tRPmaC4RRtBJ6JM4mG8", 
+            "formatted_address": "Jl. Arjuna No.45, Husen Sastranegara, Cicendo, Kota Bandung, Jawa Barat 40174, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

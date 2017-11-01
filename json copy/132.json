@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.868493, 
+                    "lng": 107.582213
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.867144019708498, 
+                        "lng": 107.5835619802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.869841980291502, 
+                        "lng": 107.5808640197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "155", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "155"
+                }, 
+                {
+                    "long_name": "Jalan Gegerkalong Hilir", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Gegerkalong Hilir"
+                }, 
+                {
+                    "long_name": "Gegerkalong", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Gegerkalong"
+                }, 
+                {
+                    "long_name": "Sukasari", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Sukasari"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40153", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40153"
+                }
+            ], 
+            "place_id": "ChIJsTgjkpjmaC4Rv8Ro4ldYPHo", 
+            "formatted_address": "Jl. Gegerkalong Hilir No.155, Gegerkalong, Sukasari, Kota Bandung, Jawa Barat 40153, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

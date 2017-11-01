@@ -1,0 +1,93 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.906413400000001, 
+                    "lng": 107.6140892
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.905064419708499, 
+                        "lng": 107.6154381802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.907762380291503, 
+                        "lng": 107.6127402197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. L. L. R. E. Martadinata No.45, Citarum, Bandung Wetan, Kota Bandung, Jawa Barat 40115, Indonesia", 
+            "place_id": "ChIJofjnwUnmaC4R7FgyOPz1-lA", 
+            "address_components": [
+                {
+                    "long_name": "45", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "45"
+                }, 
+                {
+                    "long_name": "Jalan Letnan Laut Raden Eddy Martadinata", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jalan L. L. R.E. Martadinata"
+                }, 
+                {
+                    "long_name": "Citarum", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Citarum"
+                }, 
+                {
+                    "long_name": "Bandung Wetan", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Wetan"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40115", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40115"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9104484, 
+                    "lng": 107.6096004
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.909099419708499, 
+                        "lng": 107.6109493802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.911797380291502, 
+                        "lng": 107.6082514197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "36", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "36"
+                }, 
+                {
+                    "long_name": "Jalan Aceh", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Aceh"
+                }, 
+                {
+                    "long_name": "Babakan Ciamis", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Babakan Ciamis"
+                }, 
+                {
+                    "long_name": "Sumur Bandung", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Sumur Bandung"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40117", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40117"
+                }
+            ], 
+            "place_id": "ChIJQRnA1TnmaC4RVlLaADfG20c", 
+            "formatted_address": "Jl. Aceh No.36, Babakan Ciamis, Sumur Bandung, Kota Bandung, Jawa Barat 40117, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

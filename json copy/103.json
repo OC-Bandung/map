@@ -1,0 +1,94 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9462177, 
+                    "lng": 107.5934753
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.944868719708499, 
+                        "lng": 107.5948242802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.947566680291502, 
+                        "lng": 107.5921263197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "205", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "205"
+                }, 
+                {
+                    "long_name": "Jalan Soekarno Hatta", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Soekarno Hatta"
+                }, 
+                {
+                    "long_name": "Situsaeur", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Situsaeur"
+                }, 
+                {
+                    "long_name": "Bojongloa Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bojongloa Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40233", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40233"
+                }
+            ], 
+            "place_id": "ChIJ-fGmur_oaC4RyESpq8NK8So", 
+            "formatted_address": "Jl. Soekarno Hatta No.205, Situsaeur, Bojongloa Kidul, Kota Bandung, Jawa Barat 40233, Indonesia", 
+            "types": [
+                "establishment", 
+                "local_government_office", 
+                "point_of_interest"
+            ]
+        }
+    ]
+}

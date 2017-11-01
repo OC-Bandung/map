@@ -1,0 +1,182 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.8922453, 
+                    "lng": 107.5945149
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.890896319708498, 
+                        "lng": 107.5958638802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.893594280291502, 
+                        "lng": 107.5931659197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "26", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "26"
+                }, 
+                {
+                    "long_name": "Jalan Sukagalih", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Sukagalih"
+                }, 
+                {
+                    "long_name": "Cipedes", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Cipedes"
+                }, 
+                {
+                    "long_name": "Sukajadi", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Sukajadi"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40162", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40162"
+                }
+            ], 
+            "place_id": "ChIJK60tL2HmaC4Rznyfo_sKYTg", 
+            "formatted_address": "Jl. Sukagalih No.26, Cipedes, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "types": [
+                "establishment", 
+                "health", 
+                "point_of_interest"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.89187, 
+                    "lng": 107.588407
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.890521019708498, 
+                        "lng": 107.5897559802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.893218980291502, 
+                        "lng": 107.5870580197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "26", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "26"
+                }, 
+                {
+                    "long_name": "Jalan Sukamulya", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Sukamulya"
+                }, 
+                {
+                    "long_name": "Sukagalih", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Sukagalih"
+                }, 
+                {
+                    "long_name": "Sukajadi", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Sukajadi"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40162", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40162"
+                }
+            ], 
+            "place_id": "ChIJbcZVcmPmaC4RFIWvJJe9KLw", 
+            "formatted_address": "Jl. Sukamulya No.26, Sukagalih, Sukajadi, Kota Bandung, Jawa Barat 40162, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest"
+            ]
+        }
+    ]
+}

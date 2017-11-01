@@ -1,0 +1,93 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.917331000000001, 
+                    "lng": 107.605278
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.915982019708499, 
+                        "lng": 107.6066269802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.918679980291503, 
+                        "lng": 107.6039290197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "13", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "13"
+                }, 
+                {
+                    "long_name": "Jalan Pecinan Lama", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Pecinan Lama"
+                }, 
+                {
+                    "long_name": "Braga", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Braga"
+                }, 
+                {
+                    "long_name": "Sumur Bandung", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Sumur Bandung"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40111", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40111"
+                }
+            ], 
+            "place_id": "ChIJWzR3ODvmaC4R7-wVSeXmCRg", 
+            "formatted_address": "Jl. Pecinan Lama No.13, Braga, Sumur Bandung, Kota Bandung, Jawa Barat 40111, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest"
+            ]
+        }
+    ]
+}

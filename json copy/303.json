@@ -1,0 +1,181 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.914131299999999, 
+                    "lng": 107.6984781
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.912782319708498, 
+                        "lng": 107.6998270802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.915480280291502, 
+                        "lng": 107.6971291197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. A.H. Nasution No.82, Pakemitan, Cinambo, Kota Bandung, Jawa Barat 45474, Indonesia", 
+            "place_id": "ChIJn1Oe-DndaC4RH1z97Yw6uVo", 
+            "address_components": [
+                {
+                    "long_name": "82", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "82"
+                }, 
+                {
+                    "long_name": "Jalan A.H. Nasution", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jalan Ahmad Nasution"
+                }, 
+                {
+                    "long_name": "Pakemitan", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Pakemitan"
+                }, 
+                {
+                    "long_name": "Cinambo", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cinambo"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "45474", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "45474"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9044212, 
+                    "lng": 107.6702487
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.903072219708498, 
+                        "lng": 107.6715976802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.905770180291502, 
+                        "lng": 107.6688997197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. A.H. Nasution No.82, Sukamiskin, Arcamanik, Kota Bandung, Jawa Barat 40293, Indonesia", 
+            "place_id": "ChIJt6huE2DdaC4R2_e3zxF0hoE", 
+            "address_components": [
+                {
+                    "long_name": "82", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "82"
+                }, 
+                {
+                    "long_name": "Jalan A.H. Nasution", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jalan Ahmad Nasution"
+                }, 
+                {
+                    "long_name": "Sukamiskin", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Sukamiskin"
+                }, 
+                {
+                    "long_name": "Arcamanik", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Arcamanik"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40293", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40293"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

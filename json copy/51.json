@@ -1,0 +1,94 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.885568399999999, 
+                    "lng": 107.5629281
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.884219419708497, 
+                        "lng": 107.5642770802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.886917380291502, 
+                        "lng": 107.5615791197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "121", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "121"
+                }, 
+                {
+                    "long_name": "Jalan BUDI, Cilember", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. BUDI, Cilember"
+                }, 
+                {
+                    "long_name": "Pasirkaliki", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Pasirkaliki"
+                }, 
+                {
+                    "long_name": "Cimahi Utara", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cimahi Utara"
+                }, 
+                {
+                    "long_name": "Kota Cimahi", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Cimahi"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40514", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40514"
+                }
+            ], 
+            "place_id": "ChIJZ_b9hC3kaC4RnAkcLKZvm_I", 
+            "formatted_address": "Jl. BUDI, Cilember No.121, Pasirkaliki, Cimahi Utara, Kota Cimahi, Jawa Barat 40514, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }
+    ]
+}

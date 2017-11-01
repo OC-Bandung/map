@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9283573, 
+                    "lng": 107.6227556
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.927008319708499, 
+                        "lng": 107.6241045802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.929706280291502, 
+                        "lng": 107.6214066197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "35", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "35"
+                }, 
+                {
+                    "long_name": "Jalan Talaga Bodas", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Talaga Bodas"
+                }, 
+                {
+                    "long_name": "Malabar", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Malabar"
+                }, 
+                {
+                    "long_name": "Lengkong", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Lengkong"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40262", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40262"
+                }
+            ], 
+            "place_id": "ChIJEzDH7X_oaC4RaucplzBPJPU", 
+            "formatted_address": "Jl. Talaga Bodas No.35, Malabar, Lengkong, Kota Bandung, Jawa Barat 40262, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

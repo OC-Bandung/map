@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9087768, 
+                    "lng": 107.6138498
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.907427819708498, 
+                        "lng": 107.6151987802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.910125780291502, 
+                        "lng": 107.6125008197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "1", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "1"
+                }, 
+                {
+                    "long_name": "Jalan Ambon", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Ambon"
+                }, 
+                {
+                    "long_name": "Citarum", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Citarum"
+                }, 
+                {
+                    "long_name": "Bandung Wetan", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung Wetan"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40115", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40115"
+                }
+            ], 
+            "place_id": "ChIJUSKiQDbmaC4R2QKHMe4drQQ", 
+            "formatted_address": "Jl. Ambon No.1, Citarum, Bandung Wetan, Kota Bandung, Jawa Barat 40115, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

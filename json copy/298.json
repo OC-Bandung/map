@@ -1,0 +1,72 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9355005, 
+                    "lng": 107.7010775
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.934151519708498, 
+                        "lng": 107.7024264802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.936849480291502, 
+                        "lng": 107.6997285197085
+                    }
+                }, 
+                "location_type": "GEOMETRIC_CENTER"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Mekar Mulya", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Mekar Mulya"
+                }, 
+                {
+                    "long_name": "Panyileukan", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Panyileukan"
+                }, 
+                {
+                    "long_name": "Bandung City", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Bandung City"
+                }, 
+                {
+                    "long_name": "West Java", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "West Java"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }
+            ], 
+            "place_id": "ChIJUWB_hMXCaC4RB4Nq1ZJ3odk", 
+            "formatted_address": "JL. Soekarno Hatta KM. 12,5, No. 791, Bandung, 40294, Mekar Mulya, Panyileukan, Bandung City, West Java, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest"
+            ]
+        }
+    ]
+}

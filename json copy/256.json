@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9239555, 
+                    "lng": 107.6542823
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.922606519708498, 
+                        "lng": 107.6556312802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.925304480291502, 
+                        "lng": 107.6529333197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "117", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "117"
+                }, 
+                {
+                    "long_name": "Jalan Babakan Sari", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Babakan Sari"
+                }, 
+                {
+                    "long_name": "Babakan Sari", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Babakan Sari"
+                }, 
+                {
+                    "long_name": "Kiaracondong", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Kiaracondong"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40283", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40283"
+                }
+            ], 
+            "place_id": "ChIJb_Eq_uLnaC4ReG-fUqPtPEk", 
+            "formatted_address": "Jl. Babakan Sari No.117, Babakan Sari, Kiaracondong, Kota Bandung, Jawa Barat 40283, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.885820799999999, 
+                    "lng": 107.6265434
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.884471819708497, 
+                        "lng": 107.6278923802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.887169780291502, 
+                        "lng": 107.6251944197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Cigadung Selatan No.100, Sadang Serang, Coblong, Kota Bandung, Jawa Barat 40133, Indonesia", 
+            "place_id": "ChIJfR4PpgDnaC4R8AVxVPGUCSE", 
+            "address_components": [
+                {
+                    "long_name": "100", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "100"
+                }, 
+                {
+                    "long_name": "Jalan Cigadung Selatan", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Cigadung Selatan"
+                }, 
+                {
+                    "long_name": "Sadang Serang", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Sadang Serang"
+                }, 
+                {
+                    "long_name": "Coblong", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Coblong"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40133", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40133"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

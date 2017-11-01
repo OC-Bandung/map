@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.937995, 
+                    "lng": 107.6637609
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.936646019708498, 
+                        "lng": 107.6651098802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.939343980291502, 
+                        "lng": 107.6624119197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "2", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "2"
+                }, 
+                {
+                    "long_name": "Jalan Kawaluyaan", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Kawaluyaan"
+                }, 
+                {
+                    "long_name": "Jatisari", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Jatisari"
+                }, 
+                {
+                    "long_name": "Buahbatu", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Buahbatu"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40286", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40286"
+                }
+            ], 
+            "place_id": "ChIJweVClxzoaC4RB9VP5nt4iOQ", 
+            "formatted_address": "Jl. Kawaluyaan No.2, Jatisari, Buahbatu, Kota Bandung, Jawa Barat 40286, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

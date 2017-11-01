@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.873475399999999, 
+                    "lng": 107.5994434
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.872126419708497, 
+                        "lng": 107.6007923802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.874824380291502, 
+                        "lng": 107.5980944197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "1", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "1"
+                }, 
+                {
+                    "long_name": "Jalan Hegarmanah Tengah", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Hegarmanah Tengah"
+                }, 
+                {
+                    "long_name": "Hegarmanah", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Hegarmanah"
+                }, 
+                {
+                    "long_name": "Cidadap", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Cidadap"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40141", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40141"
+                }
+            ], 
+            "place_id": "ChIJ0yxD6uzmaC4RKENqEsZGswc", 
+            "formatted_address": "Jl. Hegarmanah Tengah No.1, Hegarmanah, Cidadap, Kota Bandung, Jawa Barat 40141, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

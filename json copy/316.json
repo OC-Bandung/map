@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9139087, 
+                    "lng": 107.63341
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.912559719708499, 
+                        "lng": 107.6347589802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.915257680291503, 
+                        "lng": 107.6320610197085
+                    }
+                }, 
+                "location_type": "RANGE_INTERPOLATED"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "277", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "277"
+                }, 
+                {
+                    "long_name": "Jalan Jendral Ahmad Yani", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jalan Jendral A. Yani"
+                }, 
+                {
+                    "long_name": "Cihapit", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Cihapit"
+                }, 
+                {
+                    "long_name": "Batununggal", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Batununggal"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40114", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40114"
+                }
+            ], 
+            "place_id": "El5KbC4gSmVuZHJhbCBBaG1hZCBZYW5pIE5vLjI3NywgQ2loYXBpdCwgQmF0dW51bmdnYWwsIEtvdGEgQmFuZHVuZywgSmF3YSBCYXJhdCA0MDExNCwgSW5kb25lc2lh", 
+            "formatted_address": "Jl. Jendral Ahmad Yani No.277, Cihapit, Batununggal, Kota Bandung, Jawa Barat 40114, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

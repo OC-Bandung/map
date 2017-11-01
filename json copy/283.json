@@ -1,0 +1,100 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.960762799999999, 
+                    "lng": 107.6660401
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.959413819708497, 
+                        "lng": 107.6673890802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.962111780291502, 
+                        "lng": 107.6646911197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Raya Ciwastra Jl. Rancasawo No.291, Margasari, Buahbatu, Kota Bandung, Jawa Barat 40286, Indonesia", 
+            "place_id": "ChIJ3-frnynoaC4R-gCfxBWKuoI", 
+            "address_components": [
+                {
+                    "long_name": "291", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "291"
+                }, 
+                {
+                    "long_name": "Jalan Raya Ciwastra", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Raya Ciwastra"
+                }, 
+                {
+                    "long_name": "Jalan Rancasawo", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Rancasawo"
+                }, 
+                {
+                    "long_name": "Margasari", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Margasari"
+                }, 
+                {
+                    "long_name": "Buahbatu", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Buahbatu"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40286", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40286"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

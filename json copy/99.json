@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.916811000000001, 
+                    "lng": 107.6341357
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.915462019708499, 
+                        "lng": 107.6354846802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.918159980291503, 
+                        "lng": 107.6327867197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "17", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "17"
+                }, 
+                {
+                    "long_name": "Jalan Sukabumi", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Sukabumi"
+                }, 
+                {
+                    "long_name": "Kacapiring", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Kacapiring"
+                }, 
+                {
+                    "long_name": "Batununggal", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Batununggal"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40271", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40271"
+                }
+            ], 
+            "place_id": "ChIJkwWETcXnaC4RbbozEx8IuWs", 
+            "formatted_address": "Jl. Sukabumi No.17, Kacapiring, Batununggal, Kota Bandung, Jawa Barat 40271, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

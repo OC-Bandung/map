@@ -1,0 +1,92 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.877675099999999, 
+                    "lng": 107.5910415
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.876326119708497, 
+                        "lng": 107.5923904802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.879024080291502, 
+                        "lng": 107.5896925197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "40", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "40"
+                }, 
+                {
+                    "long_name": "Jalan Sindang Sirna", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Sindang Sirna"
+                }, 
+                {
+                    "long_name": "Gegerkalong", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Gegerkalong"
+                }, 
+                {
+                    "long_name": "Sukasari", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Sukasari"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40151", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40151"
+                }
+            ], 
+            "place_id": "ChIJK-zzHI7maC4RilLKeIDrP-M", 
+            "formatted_address": "Jl. Sindang Sirna No.40, Gegerkalong, Sukasari, Kota Bandung, Jawa Barat 40151, Indonesia", 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

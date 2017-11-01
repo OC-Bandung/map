@@ -1,0 +1,93 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9042999, 
+                    "lng": 107.6804222
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.902950919708498, 
+                        "lng": 107.6817711802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.905648880291502, 
+                        "lng": 107.6790732197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. Sindanglaya No.10, Pasir Impun, Mandalajati, Kota Bandung, Jawa Barat 40293, Indonesia", 
+            "place_id": "ChIJD16y_GfdaC4RaXYxqxb2ppA", 
+            "address_components": [
+                {
+                    "long_name": "10", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "10"
+                }, 
+                {
+                    "long_name": "Jalan Sindanglaya", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Sindanglaya"
+                }, 
+                {
+                    "long_name": "Pasir Impun", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Pasir Impun"
+                }, 
+                {
+                    "long_name": "Mandalajati", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Mandalajati"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40293", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40293"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

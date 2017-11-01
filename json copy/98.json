@@ -1,0 +1,93 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.933130599999999, 
+                    "lng": 107.626412
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.931781619708497, 
+                        "lng": 107.6277609802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.934479580291502, 
+                        "lng": 107.6250630197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "formatted_address": "Jl. R.A.A. Marta Negara No.4, Turangga, Lengkong, Kota Bandung, Jawa Barat 40264, Indonesia", 
+            "place_id": "ChIJRxnJHHzoaC4RrKqJJo4HhsM", 
+            "address_components": [
+                {
+                    "long_name": "4", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "4"
+                }, 
+                {
+                    "long_name": "Jalan R.A.A. Marta Negara", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. R.A.A. Marta Negara"
+                }, 
+                {
+                    "long_name": "Turangga", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Turangga"
+                }, 
+                {
+                    "long_name": "Lengkong", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Lengkong"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40264", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40264"
+                }
+            ], 
+            "partial_match": true, 
+            "types": [
+                "street_address"
+            ]
+        }
+    ]
+}

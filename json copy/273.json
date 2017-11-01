@@ -1,0 +1,102 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location_type": "ROOFTOP", 
+                "bounds": {
+                    "northeast": {
+                        "lat": -6.9348063, 
+                        "lng": 107.7204625
+                    }, 
+                    "southwest": {
+                        "lat": -6.934997, 
+                        "lng": 107.7203996
+                    }
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.933552669708497, 
+                        "lng": 107.7217800302915
+                    }, 
+                    "southwest": {
+                        "lat": -6.936250630291502, 
+                        "lng": 107.7190820697085
+                    }
+                }, 
+                "location": {
+                    "lat": -6.9349016, 
+                    "lng": 107.7204311
+                }
+            }, 
+            "address_components": [
+                {
+                    "long_name": "14", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "14"
+                }, 
+                {
+                    "long_name": "Jalan A.H. Nasution", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jalan Ahmad Nasution"
+                }, 
+                {
+                    "long_name": "Cipadung Kidul", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Cipadung Kidul"
+                }, 
+                {
+                    "long_name": "Panyileukan", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Panyileukan"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40615", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40615"
+                }
+            ], 
+            "place_id": "ChIJRWA6IybDaC4RHXbNpGrxag4", 
+            "formatted_address": "Jl. A.H. Nasution No.14, Cipadung Kidul, Panyileukan, Kota Bandung, Jawa Barat 40615, Indonesia", 
+            "types": [
+                "premise"
+            ]
+        }
+    ]
+}

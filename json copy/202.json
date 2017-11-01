@@ -1,0 +1,88 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location_type": "GEOMETRIC_CENTER", 
+                "bounds": {
+                    "northeast": {
+                        "lat": -6.9436335, 
+                        "lng": 107.5959606
+                    }, 
+                    "southwest": {
+                        "lat": -6.947317699999999, 
+                        "lng": 107.5951787
+                    }
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.9436335, 
+                        "lng": 107.5969186302915
+                    }, 
+                    "southwest": {
+                        "lat": -6.947317699999999, 
+                        "lng": 107.5942206697085
+                    }
+                }, 
+                "location": {
+                    "lat": -6.94522, 
+                    "lng": 107.595484
+                }
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Jalan Leuwi Panjang", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Leuwi Panjang"
+                }, 
+                {
+                    "long_name": "Situsaeur", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Situsaeur"
+                }, 
+                {
+                    "long_name": "Bojongloa Kidul", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Bojongloa Kidul"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }
+            ], 
+            "place_id": "ElJKbC4gTGV1d2kgUGFuamFuZywgU2l0dXNhZXVyLCBCb2pvbmdsb2EgS2lkdWwsIEtvdGEgQmFuZHVuZywgSmF3YSBCYXJhdCwgSW5kb25lc2lh", 
+            "formatted_address": "Jl. Leuwi Panjang, Situsaeur, Bojongloa Kidul, Kota Bandung, Jawa Barat, Indonesia", 
+            "types": [
+                "route"
+            ]
+        }
+    ]
+}

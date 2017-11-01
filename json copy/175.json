@@ -1,0 +1,183 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.9187407, 
+                    "lng": 107.6188546
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.917391719708498, 
+                        "lng": 107.6202035802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.920089680291502, 
+                        "lng": 107.6175056197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "71", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "71"
+                }, 
+                {
+                    "long_name": "Jalan Baranang Siang", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Baranang Siang"
+                }, 
+                {
+                    "long_name": "Kebon Pisang", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Kb. Pisang"
+                }, 
+                {
+                    "long_name": "Sumur Bandung", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Sumur Bandung"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40112", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40112"
+                }
+            ], 
+            "place_id": "ChIJsaCSdC3maC4RNGGaxV1YU_I", 
+            "formatted_address": "Jl. Baranang Siang No.71, Kb. Pisang, Sumur Bandung, Kota Bandung, Jawa Barat 40112, Indonesia", 
+            "types": [
+                "establishment", 
+                "local_government_office", 
+                "point_of_interest"
+            ]
+        }, 
+        {
+            "geometry": {
+                "location": {
+                    "lat": -6.918595, 
+                    "lng": 107.6181271
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": -6.917246019708498, 
+                        "lng": 107.6194760802915
+                    }, 
+                    "southwest": {
+                        "lat": -6.919943980291502, 
+                        "lng": 107.6167781197085
+                    }
+                }, 
+                "location_type": "ROOFTOP"
+            }, 
+            "address_components": [
+                {
+                    "long_name": "71", 
+                    "types": [
+                        "street_number"
+                    ], 
+                    "short_name": "71"
+                }, 
+                {
+                    "long_name": "Jalan Baranang Siang", 
+                    "types": [
+                        "route"
+                    ], 
+                    "short_name": "Jl. Baranang Siang"
+                }, 
+                {
+                    "long_name": "Kebon Pisang", 
+                    "types": [
+                        "administrative_area_level_4", 
+                        "political"
+                    ], 
+                    "short_name": "Kb. Pisang"
+                }, 
+                {
+                    "long_name": "Sumur Bandung", 
+                    "types": [
+                        "administrative_area_level_3", 
+                        "political"
+                    ], 
+                    "short_name": "Sumur Bandung"
+                }, 
+                {
+                    "long_name": "Kota Bandung", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Kota Bandung"
+                }, 
+                {
+                    "long_name": "Jawa Barat", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "Jawa Barat"
+                }, 
+                {
+                    "long_name": "Indonesia", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "ID"
+                }, 
+                {
+                    "long_name": "40112", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "40112"
+                }
+            ], 
+            "place_id": "ChIJu-7RkC3maC4RljiNTPf-9rw", 
+            "formatted_address": "Jl. Baranang Siang No.71, Kb. Pisang, Sumur Bandung, Kota Bandung, Jawa Barat 40112, Indonesia", 
+            "types": [
+                "establishment", 
+                "point_of_interest", 
+                "school"
+            ]
+        }
+    ]
+}
