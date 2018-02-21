@@ -1,122 +1,152 @@
 [
-   {
-    "kechamatan":  "ASTANAANYAR" ,
-    "summary": "10"
-   },
-   {
-    "kechamatan":  "CICENDO" ,
-    "summary": "20"
-   },
-   {
-    "kechamatan":  "LENGKONG" ,
-    "summary": "30"
-   },
-   {
-    "kechamatan":  "CIBIRU" ,
-    "summary": "40"
-   },
-   {
-    "kechamatan":  "PANYILEUKAN" ,
-    "summary": "50"
-   },
-   {
-    "kechamatan":  "SUKASARI" ,
-    "summary": "60"
-   },
-   {
-    "kechamatan":  "BOJONGLOA KALER" ,
-    "summary": "70"
-   },
-   {
-    "kechamatan":  "BANDUNG KULON" ,
-    "summary": "80"
-   },
-   {
-    "kechamatan":  "CIBEUNYING KIDUL" ,
-    "summary": "90"
-   },
-   {
-    "kechamatan":  "SUMUR BANDUNG" ,
-    "summary": "100"
-   },
-   {
-    "kechamatan":  "COBLONG" ,
-    "summary": "110"
-   },
-   {
-    "kechamatan":  "ARCAMANIK" ,
-    "summary": "120"
-   },
-   {
-    "kechamatan":  "KIARACONDONG" ,
-    "summary": "130"
-   },
-   {
-    "kechamatan":  "BOJONGLOA KIDUL" ,
-    "summary": "140"
-   },
-   {
-    "kechamatan":  "BABAKAN CIPARAY" ,
-    "summary": "150"
-   },
-   {
-    "kechamatan":  "REGOL" ,
-    "summary": "160"
-   },
-   {
-    "kechamatan":  "ANDIR" ,
-    "summary": "170"
-   },
-   {
-    "kechamatan":  "SUKAJADI" ,
-    "summary": "180"
-   },
-   {
-    "kechamatan":  "GEDEBAGE" ,
-    "summary": "190"
-   },
-   {
-    "kechamatan":  "RANCASARI" ,
-    "summary": "200"
-   },
-   {
-    "kechamatan":  "BANDUNG KIDUL" ,
-    "summary": "210"
-   },
-   {
-    "kechamatan":  "ANTAPANI" ,
-    "summary": "220"
-   },
-   {
-    "kechamatan":  "MANDALAJATI" ,
-    "summary": "230"
-   },
-   {
-    "kechamatan":  "CIBEUNYING KALER" ,
-    "summary": "240"
-   },
-   {
-    "kechamatan":  "BATUNUNGGAL" ,
-    "summary": "250"
-   },
-   {
-    "kechamatan":  "CIDADAP" ,
-    "summary": "260"
-   },
-   {
-    "kechamatan":  "CINAMBO" ,
-    "summary": "270"
-   },
-   {
-    "kechamatan":  "BUAHBATU" ,
-    "summary": "280"
-   },
-   {
-    "kechamatan":  "BANDUNG WETAN" ,
-    "summary": "290"
-   },
-   {
-    "kechamatan":  "UJUNG BERUNG" ,
-    "summary": "300"
-   }
- ]
+  {
+    "unitID": "4.05.07.01",
+    "kechamatan": "SUKASARI",
+    "summary": "99"
+  },
+  {
+    "unitID": "4.05.08.01",
+    "kechamatan": "CIDADAP",
+    "summary": "9"
+  },
+  {
+    "unitID": "4.05.09.01",
+    "kechamatan": "SUKAJADI",
+    "summary": "9"
+  },
+  {
+    "unitID": "4.05.10.01",
+    "kechamatan": "CICENDO",
+    "summary": "169"
+  },
+  {
+    "unitID": "4.05.11.01",
+    "kechamatan": "ANDIR",
+    "summary": "6"
+  },
+  {
+    "unitID": "4.05.12.01",
+    "kechamatan": "COBLONG",
+    "summary": "78"
+  },
+  {
+    "unitID": "4.05.13.01",
+    "kechamatan": "BANDUNG WETAN",
+    "summary": "376"
+  },
+  {
+    "unitID": "4.05.14.01",
+    "kechamatan": "SUMUR BANDUNG",
+    "summary": "1035"
+  },
+  {
+    "unitID": "4.05.15.01",
+    "kechamatan": "CIBEUNYING KIDUL",
+    "summary": "11"
+  },
+  {
+    "unitID": "4.05.16.01",
+    "kechamatan": "CIBEUNYING KALER",
+    "summary": "0"
+  },
+  {
+    "unitID": "4.05.17.01",
+    "kechamatan": "ASTANAANYAR",
+    "summary": "6"
+  },
+  {
+    "unitID": "4.05.18.01",
+    "kechamatan": "BOJONGLOA KALER",
+    "summary": "93"
+  },
+  {
+    "unitID": "4.05.19.01",
+    "kechamatan": "BOJONGLOA KIDUL",
+    "summary": "14"
+  },
+  {
+    "unitID": "4.05.20.01",
+    "kechamatan": "BABAKAN CIPARAY",
+    "summary": "135"
+  },
+  {
+    "unitID": "4.05.21.01",
+    "kechamatan": "BANDUNG KULON",
+    "summary": "37"
+  },
+  {
+    "unitID": "4.05.22.01",
+    "kechamatan": "REGOL",
+    "summary": "14"
+  },
+  {
+    "unitID": "4.05.23.01",
+    "kechamatan": "LENGKONG",
+    "summary": "133"
+  },
+  {
+    "unitID": "4.05.24.01",
+    "kechamatan": "BATUNUNGGAL",
+    "summary": "577"
+  },
+  {
+    "unitID": "4.05.25.01",
+    "kechamatan": "UJUNGBERUNG",
+    "summary": "0"
+  },
+  {
+    "unitID": "4.05.26.01",
+    "kechamatan": "KIARACONDONG",
+    "summary": "22"
+  },
+  {
+    "unitID": "4.05.27.01",
+    "kechamatan": "ARCAMANIK",
+    "summary": "6"
+  },
+  {
+    "unitID": "4.05.28.01",
+    "kechamatan": "CIBIRU",
+    "summary": "5"
+  },
+  {
+    "unitID": "4.05.29.01",
+    "kechamatan": "ANTAPANI",
+    "summary": "0"
+  },
+  {
+    "unitID": "4.05.30.01",
+    "kechamatan": "RANCASARI",
+    "summary": "37"
+  },
+  {
+    "unitID": "4.05.31.01",
+    "kechamatan": "BUAHBATU",
+    "summary": "137"
+  },
+  {
+    "unitID": "4.05.32.01",
+    "kechamatan": "BANDUNG KIDUL",
+    "summary": "5"
+  },
+  {
+    "unitID": "4.05.33.01",
+    "kechamatan": "GEDEBAGE",
+    "summary": "2"
+  },
+  {
+    "unitID": "4.05.34.01",
+    "kechamatan": "PANYILEUKAN",
+    "summary": "27"
+  },
+  {
+    "unitID": "4.05.35.01",
+    "kechamatan": "CINAMBO",
+    "summary": "31"
+  },
+  {
+    "unitID": "4.05.36.01",
+    "kechamatan": "MANDALAJATI",
+    "summary": "13"
+  }
+]

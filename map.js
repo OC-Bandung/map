@@ -67,14 +67,12 @@
         xhr.onload = function() {
 
             var mapData = JSON.parse(xhr.responseText);
-            console.log(mapData);
+            
 
             // mapData.shift(); // the first row contains column names
             for (i=0; i<mapData.length; i++) {
 
-
-             
-                var mapVariable = parseFloat(mapData[i].summary);
+                var mapVariable = parseFloat(mapData[i].summary) + 100;
                 var KECAMATANId = mapData[i].kechamatan;
 
                 // keep track of min and max values in order to know how to color
@@ -141,21 +139,25 @@
         var showRow = true;
         if (feature.getProperty('map_variable') == null ||
             isNaN(feature.getProperty('map_variable'))) {
-            showRow = false;
+            color[0] = 0;
+            color[1] = 0;
+            color[2] = 97;    
+            showRow = true;
         }
 
-        var outlineWeight = 0.5,
+        var outlineWeight = 1,
             zIndex = 1;
         if (feature.getProperty('KECAMATAN') === 'hover') {
             outlineWeight = zIndex = 2;
         }
 
+      
         return {
             strokeWeight: outlineWeight,
-            strokeColor: '#fff',
+            strokeColor: '#000',
             zIndex: zIndex,
             fillColor: 'hsl(' + color[0] + ',' + color[1] + '%,' + color[2] + '%)',
-            fillOpacity: 0.75,
+            fillOpacity: 1,
             visible: showRow //visibility flag
         };
     }
@@ -174,7 +176,7 @@
 
         // update the label
         document.getElementById('data-value').textContent =
-            e.feature.getProperty('map_variable').toLocaleString();
+            e.feature.getProperty('kecamatan').toLocaleString();
         document.getElementById('data-box').style.display = 'block';
         document.getElementById('data-caret').style.display = 'block';
         //move the indicator or caret on the green/blue scale
